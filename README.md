@@ -26,6 +26,12 @@
 * [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html)
 * [FormSite](https://www.formsite.com/)
 
+## Email Services for Developers
+
+* [Mandrill by MailChimp](https://mandrill.com/)
+* [mailgun](http://www.mailgun.com/)
+* [mailjet](https://www.mailjet.com/)
+
 
 ## Live Chat
 
