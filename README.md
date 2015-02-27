@@ -104,6 +104,10 @@
 * [GetSentry](https://getsentry.com/welcome/)
 * [Raygun](https://raygun.io/)
 
+# Contributing
+
+Issues and pull requests are welcome.
+
 # Credits
 
 Thanks to [Mike Neumegen](http://mikeneumegen.com/) for letting me use his excellent post, [The ultimate list of services for static websites](http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html), as a starting off point for this list.
