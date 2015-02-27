@@ -22,7 +22,7 @@
 * [FormStack](https://www.formstack.com/)
 * [Wufoo](http://www.wufoo.com/)
 * [Jotform](http://www.jotform.com/)
-* [Brace Forms](http://forms.brace.io/)
+* [Formspree](http://formspree.io/)
 * [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html)
 * [FormSite](https://www.formsite.com/)
 
