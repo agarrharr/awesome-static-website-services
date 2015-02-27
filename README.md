@@ -104,6 +104,7 @@
 * [Vimeo](https://vimeo.co/)
 * [Wistia](http://wistia.com/)
 * [Sketch Fab](https://sketchfab.com/)
+* [Google Calendar](http://calendar.google.com/)
 
 ## Frontend Error Trackers
 
