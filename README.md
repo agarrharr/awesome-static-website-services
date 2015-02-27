@@ -84,6 +84,7 @@
 
 * [Flickr](https://www.flickr.com/)
 * [SoundCloud](https://soundcloud.com/)
+* [Mixcloud](https://www.mixcloud.com/)
 * [Ted Talks](https://www.ted.com/)
 * [Spotify](https://www.spotify.com/)
 * [Slideshare](http://www.slideshare.net/)
