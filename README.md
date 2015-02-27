@@ -58,6 +58,7 @@
 * [Kimono Labs](https://www.kimonolabs.com/)
 * [Tapirgo](http://tapirgo.com/)
 * [Google Search](https://www.google.com/cse/)
+* [lunr.js](http://lunrjs.com/)
 
 ## Backends
 
