@@ -134,6 +134,9 @@
 ## Code
 
 * [Codepen](http://codepen.io/)
+* [JS Bin](http://jsbin.com/)
+* [JSFiddle](http://jsfiddle.net/)
+* [Plunker](http://plnkr.co/)
 
 # Contributing
 
