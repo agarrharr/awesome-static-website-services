@@ -92,32 +92,48 @@
 * [Heap](https://heapanalytics.com/)
 * [Gauges](http://get.gaug.es/)
 
-## Embeddable Content
-
-* [Flickr](https://www.flickr.com/)
-* [SoundCloud](https://soundcloud.com/)
-* [Mixcloud](https://www.mixcloud.com/)
-* [Ted Talks](https://www.ted.com/)
-* [Spotify](https://www.spotify.com/)
-* [Slideshare](http://www.slideshare.net/)
-* [SpeakerDeck](https://speakerdeck.com/)
-* [Vevo](http://www.vevo.com/)
-* [Vine](https://vine.co/)
-* [Codepen](http://codepen.io/)
-* [Wolfram Alpha](http://www.wolframalpha.com/)
-* [YouTube](http://youtube.com/)
-* [Google Maps](http://maps.google.com/)
-* [Vimeo](https://vimeo.co/)
-* [Wistia](http://wistia.com/)
-* [Sketch Fab](https://sketchfab.com/)
-* [Google Calendar](http://calendar.google.com/)
-
 ## Frontend Error Trackers
 
 * [NewRelic](http://newrelic.com/)
 * [Errorception](https://errorception.com/)
 * [GetSentry](https://getsentry.com/welcome/)
 * [Raygun](https://raygun.io/)
+
+## Video
+
+* [YouTube](http://youtube.com/)
+* [Vimeo](https://vimeo.co/)
+* [Vevo](http://www.vevo.com/)
+* [Wistia](http://wistia.com/)
+* [Vine](https://vine.co/)
+* [Ted Talks](https://www.ted.com/)
+
+## Audio
+
+* [SoundCloud](https://soundcloud.com/)
+* [Mixcloud](https://www.mixcloud.com/)
+* [Spotify](https://www.spotify.com/)
+
+## Images
+
+* [Flickr](https://www.flickr.com/)
+* [imgur](http://imgur.com/)
+
+## Presentations
+
+* [Slideshare](http://www.slideshare.net/)
+* [SpeakerDeck](https://speakerdeck.com/)
+
+## Other Embeddable Content
+
+* [Google Calendar](http://calendar.google.com/)
+* [Google Maps](http://maps.google.com/)
+* [Sketch Fab](https://sketchfab.com/)
+* [Wolfram Alpha](http://www.wolframalpha.com/)
+
+## Code
+
+* [Codepen](http://codepen.io/)
 
 # Contributing
 
