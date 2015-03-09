@@ -121,6 +121,9 @@
 
 ## Presentations
 
+* [Prezi](http://prezi.com/)
+* [Reveal.js](http://lab.hakim.se/reveal-js/)
+* [Slides.com](http://slides.com/)
 * [Slideshare](http://www.slideshare.net/)
 * [SpeakerDeck](https://speakerdeck.com/)
 
