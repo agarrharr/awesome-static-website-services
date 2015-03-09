@@ -1,5 +1,12 @@
 # Services for Static Websites
 
+## Static Hosting
+
+* [Github Pages](https://pages.github.com/)
+* [Pancake](https://pancake.io/)
+* [paperplane.io](https://www.paperplane.io/)- $9/month
+* [Divshot](https://divshot.com/)
+
 ## Newsletters
 
 * [MailChimp](http://mailchimp.com/)
@@ -7,7 +14,6 @@
 * [AWeber](http://www.aweber.com/)
 * [Sendicate](https://www.sendicate.net/)
 * [MailerLite](https://www.mailerlite.com/)
-
 
 ## Community
 
@@ -32,7 +38,6 @@
 * [Mandrill by MailChimp](https://mandrill.com/)
 * [mailgun](http://www.mailgun.com/)
 * [mailjet](https://www.mailjet.com/)
-
 
 ## Live Chat
 
