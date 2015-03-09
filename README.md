@@ -22,7 +22,7 @@
 * [IntenseDebate](http://intensedebate.com/)
 * [LiveFyre](http://livefyre.com/)
 
-## Contact Forms
+## Forms
 
 * [elFormo](https://www.elformo.com/)
 * [FormKeep](https://formkeep.com/)
@@ -126,6 +126,11 @@
 * [Slides.com](http://slides.com/)
 * [Slideshare](http://www.slideshare.net/)
 * [SpeakerDeck](https://speakerdeck.com/)
+
+## Books
+
+* [Google Books](https://github.com/aharris88/google-bookshelves-widget)
+* [Goodreads API and widgets](https://www.goodreads.com/api)
 
 ## Other Embeddable Content
 
