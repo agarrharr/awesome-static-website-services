@@ -2,116 +2,116 @@
 
 ## Static Hosting
 
+* [Divshot](https://divshot.com/)
 * [Github Pages](https://pages.github.com/)
 * [Pancake](https://pancake.io/)
 * [paperplane.io](https://www.paperplane.io/)- $9/month
-* [Divshot](https://divshot.com/)
 
 ## Newsletters
 
-* [MailChimp](http://mailchimp.com/)
-* [Campaign Monitor](https://www.campaignmonitor.com/)
 * [AWeber](http://www.aweber.com/)
-* [Sendicate](https://www.sendicate.net/)
+* [Campaign Monitor](https://www.campaignmonitor.com/)
+* [MailChimp](http://mailchimp.com/)
 * [MailerLite](https://www.mailerlite.com/)
+* [Sendicate](https://www.sendicate.net/)
 
 ## Community
 
 * [Disqus](https://disqus.com/)
-* [IntenseDebate](http://intensedebate.com/)
 * [Facebook Comments](https://developers.facebook.com/docs/plugins/comments)
+* [IntenseDebate](http://intensedebate.com/)
 * [LiveFyre](http://livefyre.com/)
 
 ## Contact Forms
 
 * [elFormo](https://www.elformo.com/)
 * [FormKeep](https://formkeep.com/)
-* [FormStack](https://www.formstack.com/)
-* [Wufoo](http://www.wufoo.com/)
-* [Jotform](http://www.jotform.com/)
-* [Formspree](http://formspree.io/)
-* [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html)
 * [FormSite](https://www.formsite.com/)
+* [Formspree](http://formspree.io/)
+* [FormStack](https://www.formstack.com/)
+* [Jotform](http://www.jotform.com/)
+* [Wufoo](http://www.wufoo.com/)
+* [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html)
 
 ## Email Services for Developers
 
-* [Mandrill by MailChimp](https://mandrill.com/)
 * [mailgun](http://www.mailgun.com/)
 * [mailjet](https://www.mailjet.com/)
+* [Mandrill by MailChimp](https://mandrill.com/)
 
 ## Live Chat
 
-* [Olark](https://www.olark.com/)
-* [Zopim](https://www.zopim.com/)
-* [SnapEngage](https://snapengage.com/)
 * [LiveChat](http://www.livechatinc.com/)
+* [Olark](https://www.olark.com/)
+* [SnapEngage](https://snapengage.com/)
+* [Zopim](https://www.zopim.com/)
 
 ## E-Commerce
 
-* [SnipCart](http://snipcart.com/)
 * [Google Checkout](https://checkout.google.com/seller/integrate_shoppingcart.html)
-* [PayPal](https://www.paypal.com/uk/cgi-bin/webscr?cmd=p/xcl/rec/sc-intro-outside)
 * [Gumroad](https://gumroad.com/)
-* [Stripe](https://stripe.com/)
 * [Pay With A Tweet](http://www.paywithatweet.com/)
+* [PayPal](https://www.paypal.com/uk/cgi-bin/webscr?cmd=p/xcl/rec/sc-intro-outside)
+* [SnipCart](http://snipcart.com/)
+* [Stripe](https://stripe.com/)
 * [VHX](https://www.vhx.tv/)
 
 ## Surveys
 
-* [Typeform](http://typeform.com/)
-* [SurveyMonkey](http://www.surveymonkey.com/)
-* [PollDaddy](https://polldaddy.com/)
 * [Google Forms](https://www.google.co.nz/forms/about/)
+* [PollDaddy](https://polldaddy.com/)
+* [SurveyMonkey](http://www.surveymonkey.com/)
+* [Typeform](http://typeform.com/)
 * [Qualaroo](https://qualaroo.com/)
 
 ## Search
 
-* [Swiftype](https://swiftype.com/)
-* [Kimono Labs](https://www.kimonolabs.com/)
-* [Tapirgo](http://tapirgo.com/)
 * [Google Search](https://www.google.com/cse/)
+* [Kimono Labs](https://www.kimonolabs.com/)
 * [lunr.js](http://lunrjs.com/)
+* [Swiftype](https://swiftype.com/)
+* [Tapirgo](http://tapirgo.com/)
 
 ## Backends
 
 * [FireBase](https://www.firebase.com/)
-* [UserApp](https://www.userapp.io/)
 * [Hull](http://www.hull.io/)
 * [Parse] (https://parse.com/)
+* [UserApp](https://www.userapp.io/)
 
 ## Analytics
 
-* [Google Analytics](http://www.google.com/analytics/)
 * [Clicky](http://clicky.com/)
 * [CrazyEgg](http://www.crazyegg.com/)
+* [Gauges](http://get.gaug.es/)
+* [Google Analytics](http://www.google.com/analytics/)
+* [Heap](https://heapanalytics.com/)
+* [Hubspot](http://hubspot.com/)
 * [Kissmetrics](http://kissmetrics.com/)
 * [Mixpanel](http://mixpanel.com/)
-* [Segment](https://segment.com/)
-* [Hubspot](http://hubspot.com/)
 * [Optimizely](https://www.optimizely.com/)
-* [Heap](https://heapanalytics.com/)
-* [Gauges](http://get.gaug.es/)
+* [Segment](https://segment.com/)
 
 ## Frontend Error Trackers
 
-* [NewRelic](http://newrelic.com/)
 * [Errorception](https://errorception.com/)
 * [GetSentry](https://getsentry.com/welcome/)
+* [NewRelic](http://newrelic.com/)
 * [Raygun](https://raygun.io/)
 
 ## Video
 
-* [YouTube](http://youtube.com/)
-* [Vimeo](https://vimeo.co/)
-* [Vevo](http://www.vevo.com/)
-* [Wistia](http://wistia.com/)
-* [Vine](https://vine.co/)
 * [Ted Talks](https://www.ted.com/)
+* [Vevo](http://www.vevo.com/)
+* [Vimeo](https://vimeo.co/)
+* [Vine](https://vine.co/)
+* [Wistia](http://wistia.com/)
+* [YouTube](http://youtube.com/)
 
 ## Audio
 
-* [SoundCloud](https://soundcloud.com/)
 * [Mixcloud](https://www.mixcloud.com/)
+* [SoundCloud](https://soundcloud.com/)
 * [Spotify](https://www.spotify.com/)
 
 ## Images
