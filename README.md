@@ -41,9 +41,12 @@
 
 ## Live Chat
 
+* [jivochat](https://www.jivochat.com/)
 * [LiveChat](http://www.livechatinc.com/)
 * [Olark](https://www.olark.com/)
 * [SnapEngage](https://snapengage.com/)
+* [tawk.co](https://www.tawk.to/)
+* [WebsiteAlive](https://www.websitealive.com/)
 * [Zopim](https://www.zopim.com/)
 
 ## E-Commerce
