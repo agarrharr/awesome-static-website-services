@@ -141,10 +141,14 @@
 * [Google Books](https://github.com/aharris88/google-bookshelves-widget)
 * [Goodreads API and widgets](https://www.goodreads.com/api)
 
+## Maps
+
+* [Google Maps](http://maps.google.com/)
+* [Mapbox](https://www.mapbox.com/)
+
 ## Other Embeddable Content
 
 * [Google Calendar](http://calendar.google.com/)
-* [Google Maps](http://maps.google.com/)
 * [Sketch Fab](https://sketchfab.com/)
 * [Wolfram Alpha](http://www.wolframalpha.com/)
 
