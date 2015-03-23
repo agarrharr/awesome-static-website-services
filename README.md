@@ -22,6 +22,12 @@
 * [IntenseDebate](http://intensedebate.com/)
 * [LiveFyre](http://livefyre.com/)
 
+## Social Media
+
+* [Google+](https://developers.google.com/+/web/embedded-post/)
+* [Storify](https://storify.com/)
+* [Twitter](https://dev.twitter.com/web/embedded-tweets)
+
 ## Forms
 
 * [elFormo](https://www.elformo.com/)
