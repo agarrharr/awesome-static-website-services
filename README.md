@@ -1,34 +1,68 @@
 # Services for Static Websites
 
-## Static Hosting
+## Embeddable Content
 
-* [Divshot](https://divshot.com/)
-* [Github Pages](https://pages.github.com/)
-* [Pancake](https://pancake.io/)
-* [paperplane.io](https://www.paperplane.io/)- $9/month
+### Audio
 
-## Newsletters
+* [Mixcloud](https://www.mixcloud.com/)
+* [SoundCloud](https://soundcloud.com/)
+* [Spotify](https://www.spotify.com/)
 
-* [AWeber](http://www.aweber.com/)
-* [Campaign Monitor](https://www.campaignmonitor.com/)
-* [MailChimp](http://mailchimp.com/)
-* [MailerLite](https://www.mailerlite.com/)
-* [Sendicate](https://www.sendicate.net/)
+### Books
+
+* [Google Books](https://github.com/aharris88/google-bookshelves-widget)
+* [Goodreads API and widgets](https://www.goodreads.com/api)
+
+### Images
+
+* [Flickr](https://www.flickr.com/)
+* [imgur](http://imgur.com/)
+
+### Maps
+
+* [Google Maps](http://maps.google.com/)
+* [Mapbox](https://www.mapbox.com/)
+
+### Presentations
+
+* [Prezi](http://prezi.com/)
+* [Reveal.js](http://lab.hakim.se/reveal-js/)
+* [Slides.com](http://slides.com/)
+* [Slideshare](http://www.slideshare.net/)
+* [SpeakerDeck](https://speakerdeck.com/)
+
+### Video
+
+* [Ted Talks](https://www.ted.com/)
+* [Vevo](http://www.vevo.com/)
+* [Vimeo](https://vimeo.co/)
+* [Vine](https://vine.co/)
+* [Wistia](http://wistia.com/)
+* [YouTube](http://youtube.com/)
+
+### Other Embeddable Content
+
+* [Google Calendar](http://calendar.google.com/)
+* [Sketch Fab](https://sketchfab.com/)
+* [Wolfram Alpha](http://www.wolframalpha.com/)
+
+### Code
+
+* [Codepen](http://codepen.io/)
+* [JS Bin](http://jsbin.com/)
+* [JSFiddle](http://jsfiddle.net/)
+* [Plunker](http://plnkr.co/)
 
 ## Community
 
+### Comments
+
 * [Disqus](https://disqus.com/)
 * [Facebook Comments](https://developers.facebook.com/docs/plugins/comments)
-* [IntenseDebate](http://intensedebate.com/)
+* [IntenseDebate Comments](http://web.livefyre.com/apps/comments/)
 * [LiveFyre](http://livefyre.com/)
 
-## Social Media
-
-* [Google+](https://developers.google.com/+/web/embedded-post/)
-* [Storify](https://storify.com/)
-* [Twitter](https://dev.twitter.com/web/embedded-tweets)
-
-## Forms
+### Forms
 
 * [elFormo](https://www.elformo.com/)
 * [FormKeep](https://formkeep.com/)
@@ -39,13 +73,7 @@
 * [Wufoo](http://www.wufoo.com/)
 * [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html)
 
-## Email Services for Developers
-
-* [mailgun](http://www.mailgun.com/)
-* [mailjet](https://www.mailjet.com/)
-* [Mandrill by MailChimp](https://mandrill.com/)
-
-## Live Chat
+### Live Chat
 
 * [jivochat](https://www.jivochat.com/)
 * [LiveChat](http://www.livechatinc.com/)
@@ -54,6 +82,41 @@
 * [tawk.co](https://www.tawk.to/)
 * [WebsiteAlive](https://www.websitealive.com/)
 * [Zopim](https://www.zopim.com/)
+
+### Newsletters
+
+* [AWeber](http://www.aweber.com/)
+* [Campaign Monitor](https://www.campaignmonitor.com/)
+* [MailChimp](http://mailchimp.com/)
+* [MailerLite](https://www.mailerlite.com/)
+* [Sendicate](https://www.sendicate.net/)
+
+### Social Media
+
+* [Google+](https://developers.google.com/+/web/embedded-post/)
+* [Storify](https://storify.com/)
+* [Twitter](https://dev.twitter.com/web/embedded-tweets)
+
+### Surveys
+
+* [Google Forms](https://www.google.co.nz/forms/about/)
+* [PollDaddy](https://polldaddy.com/)
+* [SurveyMonkey](http://www.surveymonkey.com/)
+* [Typeform](http://typeform.com/)
+* [Qualaroo](https://qualaroo.com/)
+
+## Static Hosting
+
+* [Divshot](https://divshot.com/)
+* [Github Pages](https://pages.github.com/)
+* [Pancake](https://pancake.io/)
+* [paperplane.io](https://www.paperplane.io/)- $9/month
+
+## Email Services for Developers
+
+* [mailgun](http://www.mailgun.com/)
+* [mailjet](https://www.mailjet.com/)
+* [Mandrill by MailChimp](https://mandrill.com/)
 
 ## E-Commerce
 
@@ -64,14 +127,6 @@
 * [SnipCart](http://snipcart.com/)
 * [Stripe](https://stripe.com/)
 * [VHX](https://www.vhx.tv/)
-
-## Surveys
-
-* [Google Forms](https://www.google.co.nz/forms/about/)
-* [PollDaddy](https://polldaddy.com/)
-* [SurveyMonkey](http://www.surveymonkey.com/)
-* [Typeform](http://typeform.com/)
-* [Qualaroo](https://qualaroo.com/)
 
 ## Search
 
@@ -108,60 +163,13 @@
 * [NewRelic](http://newrelic.com/)
 * [Raygun](https://raygun.io/)
 
-## Video
-
-* [Ted Talks](https://www.ted.com/)
-* [Vevo](http://www.vevo.com/)
-* [Vimeo](https://vimeo.co/)
-* [Vine](https://vine.co/)
-* [Wistia](http://wistia.com/)
-* [YouTube](http://youtube.com/)
-
-## Audio
-
-* [Mixcloud](https://www.mixcloud.com/)
-* [SoundCloud](https://soundcloud.com/)
-* [Spotify](https://www.spotify.com/)
-
-## Images
-
-* [Flickr](https://www.flickr.com/)
-* [imgur](http://imgur.com/)
-
-## Presentations
-
-* [Prezi](http://prezi.com/)
-* [Reveal.js](http://lab.hakim.se/reveal-js/)
-* [Slides.com](http://slides.com/)
-* [Slideshare](http://www.slideshare.net/)
-* [SpeakerDeck](https://speakerdeck.com/)
-
-## Books
-
-* [Google Books](https://github.com/aharris88/google-bookshelves-widget)
-* [Goodreads API and widgets](https://www.goodreads.com/api)
-
-## Maps
-
-* [Google Maps](http://maps.google.com/)
-* [Mapbox](https://www.mapbox.com/)
-
-## Other Embeddable Content
-
-* [Google Calendar](http://calendar.google.com/)
-* [Sketch Fab](https://sketchfab.com/)
-* [Wolfram Alpha](http://www.wolframalpha.com/)
-
-## Code
-
-* [Codepen](http://codepen.io/)
-* [JS Bin](http://jsbin.com/)
-* [JSFiddle](http://jsfiddle.net/)
-* [Plunker](http://plnkr.co/)
-
 # Contributing
 
 Issues and pull requests are welcome.
+
+## Todo
+
+* Check out other services that [Livefyre](http://web.livefyre.com/) offers besides comments
 
 # Credits
 
