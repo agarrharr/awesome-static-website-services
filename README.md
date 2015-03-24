@@ -1,5 +1,20 @@
 # Services for Static Websites
 
+## Editors
+
+### Online Editors for Github Pages
+
+* [Prose](https://github.com/prose/prose)
+* [HubPress](https://github.com/HubPress/hubpress.io)
+* [potion](https://github.com/captn3m0/potion)
+* [github-pages-editor](https://github.com/makinacorpus/github-pages-editor)
+* [Jekyll Now](https://github.com/barryclark/jekyll-now)
+
+### Markdown Editors
+
+* [Markdown Plus](https://tylingsoft.com/mdp)
+* [Mou](http://25.io/mou/)
+
 ## Embeddable Content
 
 ### Audio
