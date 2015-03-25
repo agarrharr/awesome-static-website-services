@@ -28,6 +28,10 @@
 * [Google Books](https://github.com/aharris88/google-bookshelves-widget)
 * [Goodreads API and widgets](https://www.goodreads.com/api)
 
+### Fitness Scheduling
+
+* [zenplanner](http://zenplanner.com/)
+
 ### Images
 
 * [Flickr](https://www.flickr.com/)
