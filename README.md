@@ -117,6 +117,7 @@
 ### Social Media
 
 * [Google+](https://developers.google.com/+/web/embedded-post/)
+* [Pinterest](https://developers.pinterest.com/)
 * [ShareThis](http://www.sharethis.com/)
 * [Storify](https://storify.com/)
 * [Twitter](https://dev.twitter.com/web/embedded-tweets)
