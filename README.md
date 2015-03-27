@@ -113,6 +113,7 @@
 ### Social Media
 
 * [Google+](https://developers.google.com/+/web/embedded-post/)
+* [ShareThis](http://www.sharethis.com/)
 * [Storify](https://storify.com/)
 * [Twitter](https://dev.twitter.com/web/embedded-tweets)
 
