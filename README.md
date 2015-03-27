@@ -78,8 +78,8 @@
 
 * [Disqus](https://disqus.com/)
 * [Facebook Comments](https://developers.facebook.com/docs/plugins/comments)
-* [IntenseDebate Comments](http://web.livefyre.com/apps/comments/)
-* [LiveFyre](http://livefyre.com/)
+* [IntenseDebate Comments](http://www.intensedebate.com/)
+* [LiveFyre](http://web.livefyre.com/apps/comments/)
 
 ### Forms
 
