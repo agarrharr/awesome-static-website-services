@@ -4,8 +4,10 @@
 
 ### Online Editors for Github Pages
 
+* [Github's Online Interface](https://help.github.com/articles/github-flow-in-the-browser/)
 * [Prose](https://github.com/prose/prose)
 * [HubPress](https://github.com/HubPress/hubpress.io)
+* [Octodmin](https://github.com/krasnoukhov/octodmin)
 * [potion](https://github.com/captn3m0/potion)
 * [github-pages-editor](https://github.com/makinacorpus/github-pages-editor)
 * [Jekyll Now](https://github.com/barryclark/jekyll-now)
