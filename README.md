@@ -132,6 +132,7 @@
 
 ## Static Hosting
 
+* [cloudcannon](http://cloudcannon.com/)
 * [Divshot](https://divshot.com/)
 * [Github Pages](https://pages.github.com/)
 * [Pancake](https://pancake.io/)
