@@ -149,6 +149,7 @@
 
 * [Google Checkout](https://checkout.google.com/seller/integrate_shoppingcart.html)
 * [Gumroad](https://gumroad.com/)
+* [Jekyll-Store](https://github.com/jekyll-store/front)
 * [Pay With A Tweet](http://www.paywithatweet.com/)
 * [PayPal](https://www.paypal.com/uk/cgi-bin/webscr?cmd=p/xcl/rec/sc-intro-outside)
 * [SnipCart](http://snipcart.com/)
