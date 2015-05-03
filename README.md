@@ -2,8 +2,9 @@
 
 ## Editors
 
-### Online Editors for Github Pages
+### Online Editors for Static Sites
 
+* [cloudcannon](http://cloudcannon.com/)
 * [Github's Online Interface](https://help.github.com/articles/github-flow-in-the-browser/)
 * [github-pages-editor](https://github.com/makinacorpus/github-pages-editor)
 * [HubPress](https://github.com/HubPress/hubpress.io)
