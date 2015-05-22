@@ -14,6 +14,10 @@
 * [potion](https://github.com/captn3m0/potion)
 * [Prose](https://github.com/prose/prose)
 
+### Android Editor
+
+* [MrHyde](https://play.google.com/store/apps/details?id=org.faudroids.mrhyde)
+
 ### Markdown Editors
 
 * [Markdown Plus](https://tylingsoft.com/mdp)
