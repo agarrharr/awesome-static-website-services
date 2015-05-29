@@ -23,6 +23,10 @@
 * [Markdown Plus](https://tylingsoft.com/mdp)
 * [Mou](http://25.io/mou/)
 
+### Other Editors
+
+* [jekyll-post-via-web](https://github.com/vrypan/jekyll-post-via-web)- Html page that allows you to post new articles to your Github hosted site
+
 ## Embeddable Content
 
 ### Audio
