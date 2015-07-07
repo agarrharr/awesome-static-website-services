@@ -27,9 +27,14 @@
 
 * [jekyll-post-via-web](https://github.com/vrypan/jekyll-post-via-web)- Html page that allows you to post new articles to your Github hosted site
 
-### Command Line Tools
+## Command Line Tools
 
 * [(JBH) Jekyll Blog Helper](https://github.com/AlanBarber/jbh)
+
+## Lists of Jekyll Themes
+
+* [JekyllThemes.org](http://jekyllthemes.org/)
+* [Jekyll themes on the Jekyll wiki](https://github.com/jekyll/jekyll/wiki/Themes)
 
 ## Embeddable Content
 
