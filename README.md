@@ -27,6 +27,10 @@
 
 * [jekyll-post-via-web](https://github.com/vrypan/jekyll-post-via-web)- Html page that allows you to post new articles to your Github hosted site
 
+### Command Line Tools
+
+* [(JBH) Jekyll Blog Helper](https://github.com/AlanBarber/jbh)
+
 ## Embeddable Content
 
 ### Audio
