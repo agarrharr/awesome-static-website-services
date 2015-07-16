@@ -102,6 +102,10 @@
 * [IntenseDebate Comments](http://www.intensedebate.com/)
 * [LiveFyre](http://web.livefyre.com/apps/comments/)
 
+#### Fake Comments
+
+* [Echochamber.js](https://github.com/tessalt/echo-chamber-js)- *Note:* This isn't really a commenting system, it just saves the users comments to LocalStorage, so that only they can see the comment and no one else.
+
 ### Forms
 
 * [123 Contact Form](http://www.123contactform.com/)
