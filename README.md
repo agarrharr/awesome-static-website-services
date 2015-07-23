@@ -110,6 +110,7 @@
 
 * [123 Contact Form](http://www.123contactform.com/)
 * [elFormo](https://www.elformo.com/)
+* [Flipmail](http://flipmail.co/)
 * [FormAssembly](http://www.formassembly.com/)
 * [FormKeep](https://formkeep.com/)
 * [FormSite](https://www.formsite.com/)
@@ -117,9 +118,14 @@
 * [FormStack](https://www.formstack.com/)
 * [Github Issues](githubIssues.md)
 * [Jotform](http://www.jotform.com/)
+* [Simple Form](https://getsimpleform.com/)
 * [Typeform](http://www.typeform.com/)
 * [Wufoo](http://www.wufoo.com/)
 * [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html)
+
+### Email Backends
+
+* [Nodemailer](http://www.nodemailer.com/)
 
 ### Live Chat
 
