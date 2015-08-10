@@ -167,6 +167,7 @@
 * [Divshot](https://divshot.com/)
 * [Github Pages](https://pages.github.com/)
 * [Pancake](https://pancake.io/)
+* [Netlify](https://www.netlify.com/)
 * [paperplane.io](https://www.paperplane.io/)- $9/month
 
 ## Email Services for Developers
