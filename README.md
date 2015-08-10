@@ -4,11 +4,11 @@
 
 ### Online Editors for Static Sites
 
-* [cloudcannon](http://cloudcannon.com/)
+* [cloudcannon](http://cloudcannon.com/)- Free for 1 user, $9/month for 5 users
 * [Github's Online Interface](https://help.github.com/articles/github-flow-in-the-browser/)
 * [github-pages-editor](https://github.com/makinacorpus/github-pages-editor)
 * [HubPress](https://github.com/HubPress/hubpress.io)
-* [Jekyll Now](https://github.com/barryclark/jekyll-now)
+* [Jekyll Now](https://github.com/barryclark/jekyll-now)- template that suggests using Github's Online Editor
 * [KISS my BLOG](https://kissmyblog.com)
 * [Octodmin](https://github.com/krasnoukhov/octodmin)
 * [potion](https://github.com/captn3m0/potion)
