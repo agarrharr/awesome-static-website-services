@@ -29,7 +29,13 @@
 
 ## Command Line Tools
 
-* [(JBH) Jekyll Blog Helper](https://github.com/AlanBarber/jbh)
+* [drjekyll](https://github.com/drjekyllthemes/drjekyll)- drjekyll gem - the missing static site theme package manager .:. jekyll command line tool
+
+* [Gynn](https://github.com/dmathieu/glynn)- Generate your jekyll blog files and sends them through FTP
+
+* [(JBH) Jekyll Blog Helper](https://github.com/AlanBarber/jbh)- (JBH) Jekyll Blog Helper - A shell script to help manage a jekyll weblog site
+
+* [mrhyde](https://github.com/mrhydescripts/mrhyde)- mrhyde-tools gem - static site quick starter script wizard .:. jekyll command line tool
 
 ## Lists of Jekyll Themes
 
