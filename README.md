@@ -40,7 +40,9 @@
 ## Lists of Jekyll Themes
 
 * [JekyllThemes.org](http://jekyllthemes.org/)
+
 * [Jekyll themes on the Jekyll wiki](https://github.com/jekyll/jekyll/wiki/Themes)
+
 * [Dr Jekyll's Themes](http://drjekyllthemes.github.io)
 
 ## Lists of Static Site Generators
@@ -189,6 +191,7 @@
 
 ## E-Commerce
 
+* [Ecwid](www.ecwid.com)
 * [FoxyCart](http://www.foxycart.com/)
 * [Google Checkout](https://checkout.google.com/seller/integrate_shoppingcart.html)
 * [Gumroad](https://gumroad.com/)
