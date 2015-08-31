@@ -182,6 +182,7 @@
 * [Netlify](https://www.netlify.com/)
 * [Pancake](https://pancake.io/)
 * [paperplane.io](https://www.paperplane.io/)- $9/month
+* [surge](https://surge.sh/)
 
 ## Email Services for Developers
 
