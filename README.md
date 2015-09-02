@@ -13,6 +13,7 @@
 * [Octodmin](https://github.com/krasnoukhov/octodmin)
 * [potion](https://github.com/captn3m0/potion)
 * [Prose](https://github.com/prose/prose)
+* [Content Editor](https://github.com/mushishi78/content-editor)
 
 ### Android Editor
 
