@@ -186,7 +186,13 @@
 * [Netlify](https://www.netlify.com/)
 * [Pancake](https://pancake.io/)
 * [paperplane.io](https://www.paperplane.io/)- $9/month
+* [site44](http://www.site44.com/)
 * [surge](https://surge.sh/)
+* [UpDog](https://updog.co/)
+
+### Hosting Tools
+
+* [s3_website](https://github.com/laurilehmijoki/s3_website)- Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features.
 
 ## Email Services for Developers
 
