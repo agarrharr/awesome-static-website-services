@@ -5,7 +5,6 @@
 ### Online Editors for Static Sites
 
 * [cloudcannon](http://cloudcannon.com/)- Free for 1 user, $9/month for 5 users
-* [Cloudstitch](http://www.cloudstitch.com/)- use Google Sheets as a CMS
 * [Github's Online Interface](https://help.github.com/articles/github-flow-in-the-browser/)
 * [github-pages-editor](https://github.com/makinacorpus/github-pages-editor)
 * [HubPress](https://github.com/HubPress/hubpress.io)
@@ -14,7 +13,6 @@
 * [Octodmin](https://github.com/krasnoukhov/octodmin)
 * [potion](https://github.com/captn3m0/potion)
 * [Prose](https://github.com/prose/prose)
-* [Sheetsu](http://sheetsu.com/)- POST and GET your data to Google Spreadsheet
 * [Content Editor](https://github.com/mushishi78/content-editor)
 
 ### Android Editor
@@ -135,6 +133,7 @@
 * [Github Issues](githubIssues.md)
 * [Jotform](http://www.jotform.com/)
 * [MailThis](http://mailthis.to/)
+* [Sheetsu](http://sheetsu.com/)- POST and GET your data to Google Spreadsheet
 * [Simple Form](https://getsimpleform.com/)
 * [Typeform](http://www.typeform.com/)
 * [Wufoo](http://www.wufoo.com/)
@@ -223,9 +222,11 @@
 
 ## Backends
 
+* [Cloudstitch](http://www.cloudstitch.com/)- use Google Sheets as a CMS
 * [FireBase](https://www.firebase.com/)
 * [Hull](http://www.hull.io/)
 * [Parse] (https://parse.com/)
+* [Sheetsu](http://sheetsu.com/)- POST and GET your data to Google Spreadsheet
 * [UserApp](https://www.userapp.io/)
 
 ## Analytics
