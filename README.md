@@ -1,4 +1,8 @@
-# Services for Static Websites
+# Awesome Services for Static Websites
+
+> A curated list of services for static websites.
+
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Editors
 
