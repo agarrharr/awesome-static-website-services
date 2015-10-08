@@ -183,6 +183,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Static Hosting
 
+* [Aerobatic](http://bitbucket.aerobatic.com/)
 * [cloudcannon](http://cloudcannon.com/)
 * [Divshot](https://divshot.com/)
 * [Github Pages](https://pages.github.com/)
