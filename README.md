@@ -167,7 +167,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [FormSite](https://www.formsite.com/)
 - [Formspree](http://formspree.io/)
 - [FormStack](https://www.formstack.com/)
-- [Github Issues](githubIssues.md)
+- [Github Issues](https://help.github.com/articles/about-issues/)
 - [Jotform](http://www.jotform.com/)
 - [MailThis](http://mailthis.to/)
 - [Sheetsu](http://sheetsu.com/) - POST and GET your data to Google Spreadsheet.
