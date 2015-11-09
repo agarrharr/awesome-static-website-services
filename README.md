@@ -90,6 +90,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Static Site Generators
 
 - [StaticGen](http://www.staticgen.com/)
+- [MkDocs](https://github.com/mkdocs/mkdocs)
+- [Daux.io](https://github.com/justinwalsh/daux.io)
 
 ## Embeddable Content
 
@@ -167,7 +169,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [FormSite](https://www.formsite.com/)
 - [Formspree](http://formspree.io/)
 - [FormStack](https://www.formstack.com/)
-- [Github Issues](githubIssues.md)
+- ~~[Github Issues](githubIssues.md)~~ 
 - [Jotform](http://www.jotform.com/)
 - [MailThis](http://mailthis.to/)
 - [Sheetsu](http://sheetsu.com/) - POST and GET your data to Google Spreadsheet.
