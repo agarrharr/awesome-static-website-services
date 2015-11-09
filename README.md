@@ -4,9 +4,49 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Table of Contents
+
+- [Editors](#editors)
+  - [Online Editors](#online-editors)
+  - [Android Editors](#android-editors)
+  - [Markdown Editors](#markdown-editors)
+  - [Other Editors](#other-editors)
+- [Command Line Tools](#command-line-tools)
+- [Themes](#themes)
+  - [Jekyll Themes](#jekyll-themes)
+- [Static Site Generators](#static-site-generators)
+- [Embeddable Content](#embeddable-content)
+  - [Audio](#audio)
+  - [Books](#books)
+  - [Fitness Scheduling](#fitness-scheduling)
+  - [Images](#images)
+  - [Maps](#maps)
+  - [Presentations](#presentations)
+  - [Video](#video)
+  - [Other Embeddable Content](#other-embeddable-content)
+- [Code](#code)
+- [Community](#community)
+  - [Comments](#comments)
+  - [Forms](#forms)
+  - [Email Backends](#email-backends)
+  - [Live Chat](#live-chat)
+  - [Newsletters](#newsletters)
+  - [Social Media](#social-media)
+  - [Surveys](#surveys)
+- [Static Hosting](#static-hosting)
+  - [Hosting Tools](#hosting-tools)
+- [Email Services for Developers](#email-services-for-developers)
+- [E-Commerce](#e-commerce)
+- [Search](#search)
+- [Backends](#backends)
+- [Analytics](#analytics)
+- [Front-end Error Trackers](#front-end-error-trackers)
+
+---
+
 ## Editors
 
-### Online Editors for Static Sites
+### Online Editors
 
 - [cloudcannon](http://cloudcannon.com/) - Free for 1 user, $9/month for 5 users.
 - [Github's Online Interface](https://help.github.com/articles/github-flow-in-the-browser/)
@@ -19,7 +59,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Prose](https://github.com/prose/prose)
 - [Content Editor](https://github.com/mushishi78/content-editor)
 
-### Android Editor
+### Android Editors
 
 - [MrHyde](https://play.google.com/store/apps/details?id=org.faudroids.mrhyde)
 
@@ -39,13 +79,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [(JBH) Jekyll Blog Helper](https://github.com/AlanBarber/jbh) - A shell script to help manage a jekyll weblog site.
 - [mrhyde](https://github.com/mrhydescripts/mrhyde) - Static site quick starter script wizard.
 
-## Lists of Jekyll Themes
+## Themes
+
+### Jekyll Themes
 
 - [JekyllThemes.org](http://jekyllthemes.org/)
 - [Jekyll themes on the Jekyll wiki](https://github.com/jekyll/jekyll/wiki/Themes)
 - [Dr Jekyll's Themes](http://drjekyllthemes.github.io)
 
-## Lists of Static Site Generators
+## Static Site Generators
 
 - [StaticGen](http://www.staticgen.com/)
 
@@ -114,10 +156,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments)
 - [IntenseDebate Comments](http://www.intensedebate.com/)
 - [LiveFyre](http://web.livefyre.com/apps/comments/)
-
-#### Fake Comments
-
-- [Echochamber.js](https://github.com/tessalt/echo-chamber-js) - *Note:* This isn't really a commenting system, it just saves the users comments to LocalStorage, so that only they can see the comment and no one else.
 
 ### Forms
 
