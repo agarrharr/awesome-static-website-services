@@ -261,6 +261,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Backends
 
 - [Cloudstitch](http://www.cloudstitch.com/) - Use Google Sheets as a CMS.
+- [Contentful](https://www.contentful.com/) - API-first CMS with a markdown text editor.
 - [FireBase](https://www.firebase.com/)
 - [Hull](http://www.hull.io/)
 - [Parse] (https://parse.com/)
