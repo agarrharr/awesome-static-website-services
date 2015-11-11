@@ -120,7 +120,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Presentations
 
-- [Prezi](http://prezi.com/)
+- [Prezi](https://prezi.com/)
 - [Reveal.js](http://lab.hakim.se/reveal-js/)
 - [Slides.com](http://slides.com/)
 - [Slideshare](http://www.slideshare.net/)
@@ -133,7 +133,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Vimeo](https://vimeo.co/)
 - [Vine](https://vine.co/)
 - [Wistia](http://wistia.com/)
-- [YouTube](http://youtube.com/)
+- [YouTube](https://www.youtube.com/)
 
 ### Other Embeddable Content
 
@@ -171,7 +171,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Github Issues](https://help.github.com/articles/about-issues/)
 - [Jotform](http://www.jotform.com/)
 - [MailThis](http://mailthis.to/)
-- [Sheetsu](http://sheetsu.com/) - POST and GET your data to Google Spreadsheet.
+- [Sheetsu](https://sheetsu.com/) - POST and GET your data to Google Spreadsheet.
 - [Simple Form](https://getsimpleform.com/)
 - [Typeform](http://www.typeform.com/)
 - [Wufoo](http://www.wufoo.com/)
@@ -179,12 +179,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Email Backends
 
-- [Nodemailer](http://www.nodemailer.com/)
+- [Nodemailer](http://nodemailer.com/)
 
 ### Live Chat
 
 - [jivochat](https://www.jivochat.com/)
-- [LiveChat](http://www.livechatinc.com/)
+- [LiveChat](https://www.livechatinc.com/)
 - [Olark](https://www.olark.com/)
 - [SnapEngage](https://snapengage.com/)
 - [tawk.co](https://www.tawk.to/)
@@ -211,13 +211,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Google Forms](https://www.google.co.nz/forms/about/)
 - [PollDaddy](https://polldaddy.com/)
-- [SurveyMonkey](http://www.surveymonkey.com/)
-- [Typeform](http://typeform.com/)
+- [SurveyMonkey](https://www.surveymonkey.com/)
+- [Typeform](http://www.typeform.com/)
 - [Qualaroo](https://qualaroo.com/)
 
 ## Static Hosting
 
-- [Aerobatic](http://bitbucket.aerobatic.com/)
+- [Aerobatic](http://www.aerobatic.com/)
 - [cloudcannon](http://cloudcannon.com/)
 - [Divshot](https://divshot.com/)
 - [Github Pages](https://pages.github.com/)
@@ -247,13 +247,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Jekyll-Store](https://github.com/jekyll-store/front)
 - [Pay With A Tweet](http://www.paywithatweet.com/)
 - [PayPal](https://www.paypal.com/uk/cgi-bin/webscr?cmd=p/xcl/rec/sc-intro-outside)
-- [SnipCart](http://snipcart.com/)
+- [SnipCart](https://snipcart.com/)
 - [Stripe](https://stripe.com/)
 - [VHX](https://www.vhx.tv/)
 
 ## Search
 
-- [Google Search](https://www.google.com/cse/)
+- [Google Search](https://cse.google.com/cse/)
 - [Kimono Labs](https://www.kimonolabs.com/)
 - [lunr.js](http://lunrjs.com/)
 - [Swiftype](https://swiftype.com/)
@@ -266,19 +266,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [FireBase](https://www.firebase.com/)
 - [Hull](http://www.hull.io/)
 - [Parse] (https://parse.com/)
-- [Sheetsu](http://sheetsu.com/) - POST and GET your data to Google Spreadsheet.
+- [Sheetsu](https://sheetsu.com/) - POST and GET your data to Google Spreadsheet.
 - [UserApp](https://www.userapp.io/)
 
 ## Analytics
 
-- [Clicky](http://clicky.com/)
+- [Clicky](https://clicky.com/)
 - [CrazyEgg](http://www.crazyegg.com/)
 - [Gauges](http://get.gaug.es/)
 - [Google Analytics](http://www.google.com/analytics/)
 - [Heap](https://heapanalytics.com/)
-- [Hubspot](http://hubspot.com/)
-- [Kissmetrics](http://kissmetrics.com/)
-- [Mixpanel](http://mixpanel.com/)
+- [Hubspot](http://www.hubspot.com)
+- [Kissmetrics](https://www.kissmetrics.com/)
+- [Mixpanel](https://mixpanel.com/)
 - [Optimizely](https://www.optimizely.com/)
 - [Segment](https://segment.com/)
 
