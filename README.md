@@ -10,7 +10,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Online Editors](#online-editors)
   - [Android Editors](#android-editors)
   - [Markdown Editors](#markdown-editors)
-  - [Other Editors](#other-editors)
 - [Command Line Tools](#command-line-tools)
 - [Themes](#themes)
   - [Jekyll Themes](#jekyll-themes)
@@ -48,29 +47,21 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Online Editors
 
-- [cloudcannon](http://cloudcannon.com/) - Free for 1 user, $9/month for 5 users.
-- [Github's Online Interface](https://help.github.com/articles/github-flow-in-the-browser/)
-- [github-pages-editor](https://github.com/makinacorpus/github-pages-editor)
-- [HubPress](https://github.com/HubPress/hubpress.io)
-- [Jekyll Now](https://github.com/barryclark/jekyll-now) - Template that suggests using Github's Online Editor.
-- [KISS my BLOG](https://kissmyblog.com)
-- [Octodmin](https://github.com/krasnoukhov/octodmin)
-- [potion](https://github.com/captn3m0/potion)
-- [Prose](https://github.com/prose/prose)
-- [Content Editor](https://github.com/mushishi78/content-editor)
+- [Prose](https://github.com/prose/prose) - A beautifully simple content authoring environment for static websites.
+- [Content Editor](https://github.com/mushishi78/content-editor)- A web interface for editing documents on GitHub.
+- [cloudcannon](http://cloudcannon.com/) - Free for 1 user, $9/month for 5 users. Hosting for static websites where developers can set it up so that non-developers can edit the site.
+- [potion](https://github.com/captn3m0/potion) - A github-pages compatible editor for jekyll blogs.
+- [jekyll-post-via-web](https://github.com/vrypan/jekyll-post-via-web) - Html page that allows you to post new articles to your Github hosted site.
+- [Github's Online Interface](https://help.github.com/articles/github-flow-in-the-browser/) - You can just edit your site in Github's online interface if your site's code is hosted on Github.
 
 ### Android Editors
 
-- [MrHyde](https://play.google.com/store/apps/details?id=org.faudroids.mrhyde)
+- [MrHyde](https://play.google.com/store/apps/details?id=org.faudroids.mrhyde) - Allows you to write and edit posts on Github.
 
 ### Markdown Editors
 
-- [Markdown Plus](https://tylingsoft.com/mdp)
-- [Mou](http://25.io/mou/)
-
-### Other Editors
-
-- [jekyll-post-via-web](https://github.com/vrypan/jekyll-post-via-web) - Html page that allows you to post new articles to your Github hosted site.
+- [Mou](http://25.io/mou/) - Markdown editor for developers.
+- [Markdown Plus](https://tylingsoft.com/mdp) - A markdown editor with extra features.
 
 ## Command Line Tools
 
@@ -83,99 +74,98 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Jekyll Themes
 
-- [JekyllThemes.org](http://jekyllthemes.org/)
-- [Jekyll themes on the Jekyll wiki](https://github.com/jekyll/jekyll/wiki/Themes)
-- [Dr Jekyll's Themes](http://drjekyllthemes.github.io)
+- [JekyllThemes.org](http://jekyllthemes.org/) - Website showcasing Jekyll themes.
+- [Jekyll Wiki Themes](https://github.com/jekyll/jekyll/wiki/Themes)- List of themes on the Jekyll wiki.
 
 ## Static Site Generators
 
-- [StaticGen](http://www.staticgen.com/)
+- [StaticGen](http://www.staticgen.com/)- Website showing static site generators and a lot of info about them.
 
 ## Embeddable Content
 
 ### Audio
 
-- [Mixcloud](https://www.mixcloud.com/)
-- [SoundCloud](https://soundcloud.com/)
-- [Spotify](https://www.spotify.com/)
+- [SoundCloud](https://soundcloud.com/) - Audio hosting with an embeddable player. Up to 3 hours of content is free.
+- [Mixcloud](https://www.mixcloud.com/) - Audio hosting with unlimited uploads and an embeddable player.
+- [Spotify](https://www.spotify.com/)- You can embed any song, album, or playlist with a [Spotify Play Button](https://developer.spotify.com/technologies/widgets/spotify-play-button/).
 
 ### Books
 
-- [Google Books](https://github.com/aharris88/google-bookshelves-widget)
-- [Goodreads API and widgets](https://www.goodreads.com/api)
+- [Google Books](https://github.com/aharris88/google-bookshelves-widget) - Allows you to display the books in your Google Books Library.
+- [Goodreads API and widgets](https://www.goodreads.com/api) - Allows you to access any of the Goodreads data. Widgets are found on the widgets tab on your [settings page](https://www.goodreads.com/user/edit).
 
 ### Fitness Scheduling
 
-- [zenplanner](http://zenplanner.com/)
+- [zenplanner](http://zenplanner.com/) - Paid - Online scheduling for fitness.
 
 ### Images
 
-- [Flickr](https://www.flickr.com/)
-- [imgur](http://imgur.com/)
+- [Flickr](https://www.flickr.com/) - Online photo hosting by Yahoo.
+- [imgur](http://imgur.com/) - Online photo hosting.
 
 ### Maps
 
-- [Google Maps](http://maps.google.com/)
-- [Mapbox](https://www.mapbox.com/)
+- [Google Maps](http://maps.google.com/) - Google maps are easily embeddable.
+- [Mapbox](https://www.mapbox.com/) - Really nice looking embeddable maps.
 
 ### Presentations
 
-- [Prezi](https://prezi.com/)
-- [Reveal.js](http://lab.hakim.se/reveal-js/)
-- [Slides.com](http://slides.com/)
-- [Slideshare](http://www.slideshare.net/)
-- [SpeakerDeck](https://speakerdeck.com/)
+- [Prezi](https://prezi.com/) - Online presentations with really transitions that can zoom and rotate.
+- [Reveal.js](http://lab.hakim.se/reveal-js/) - HTML presentation framework.
+- [Slides.com](http://slides.com/) - A place for creating, presenting and sharing slide decks.
+- [SpeakerDeck](https://speakerdeck.com/) - Upload your slides as a PDF, and get an online, shareable presentation.
 
 ### Video
 
-- [Ted Talks](https://www.ted.com/)
-- [Vevo](http://www.vevo.com/)
-- [Vimeo](https://vimeo.co/)
-- [Vine](https://vine.co/)
-- [Wistia](http://wistia.com/)
-- [YouTube](https://www.youtube.com/)
+- [YouTube](https://www.youtube.com/) - Embeddable videos with unlimited uploads.
+- [Vimeo](https://vimeo.co/) - Paid - Embeddable videos with no ads.
+- [Vevo](http://www.vevo.com/) - Embeddable music videos.
+- [Vine](https://vine.co/) - Embeddable vine videos.
+- [Wistia](http://wistia.com/) - Free plan has a limit of 25 videos.
 
 ### Other Embeddable Content
 
-- [Google Calendar](http://calendar.google.com/)
-- [Sketch Fab](https://sketchfab.com/)
-- [Wolfram Alpha](http://www.wolframalpha.com/)
+- [Google Calendar](http://calendar.google.com/) - Embeddable calendar that you can collaborate with other people.
+- [Sketch Fab](https://sketchfab.com/) - Embeddable 3D content.
 
 ### Code
 
-- [Codepen](http://codepen.io/)
-- [JS Bin](http://jsbin.com/)
-- [JSFiddle](http://jsfiddle.net/)
-- [Plunker](http://plnkr.co/)
+- [Codepen](http://codepen.io/) - A playground of embeddable front-end code examples.
+- [JS Bin](http://jsbin.com/) - Embeddable front-end code examples.
+- [JSFiddle](http://jsfiddle.net/) - Embeddable front-end code examples.
 
 ## Community
 
 ### Comments
 
-- [Disqus](https://disqus.com/)
-- [Facebook Comments](https://developers.facebook.com/docs/plugins/comments)
-- [IntenseDebate Comments](http://www.intensedebate.com/)
-- [LiveFyre](http://web.livefyre.com/apps/comments/)
+- [Disqus](https://disqus.com/) - Easily embeddable comments with nested replies, multiple login methods, and email notifications.
+- [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - Embeddable comments for your site by Facebook.
+- [IntenseDebate Comments](http://www.intensedebate.com/) - Embeddable comments with nested replies, multiple login methods, and email notifications.
+- [LiveFyre](http://web.livefyre.com/apps/comments/) - Real-time comments, SEO-optimized, stocked with social features, and beautiful on both desktop and mobile.
 
 ### Forms
 
+#### Really Simple Forms
+
+- [Formspree](http://formspree.io/) - Receive emails from a form on your static website.
+- [elFormo](https://www.elformo.com/) - Simple form processing and response retrieval via email.
+- [Flipmail](http://flipmail.co/) - Simple form processing and response retrieval via email.
+- [MailThis](http://mailthis.to/)- Simple form submissions via email with optional attachments.
+- [Simple Form](https://getsimpleform.com/) - Simple forms with optional file attachments, email notifications, and online submission viewing.
+
+#### Normal Forms
+
 - [Google Forms](https://www.google.com/forms/about/)- Saves results into Google Sheets and can email you when there is a submission.
-- [123 Contact Form](http://www.123contactform.com/)
-- [elFormo](https://www.elformo.com/)
-- [Flipmail](http://flipmail.co/)
+- [FormKeep](https://formkeep.com/) - Paid - View form submissions in a beautiful web interface. It has spam filtering and it integrates with webhooks such as Gmail, Trello, and Basecamp.
+- [123 Contact Form](http://www.123contactform.com/) - Connects to other online services such at MailChimp, Salesforce, and Google Drive. It also integreates with payment Processers and includes security and analytics.
 - [FormAssembly](http://www.formassembly.com/)
-- [FormKeep](https://formkeep.com/)
-- [FormSite](https://www.formsite.com/)
-- [Formspree](http://formspree.io/)
-- [FormStack](https://www.formstack.com/)
-- [Github Issues](https://help.github.com/articles/about-issues/)
-- [Jotform](http://www.jotform.com/)
-- [MailThis](http://mailthis.to/)
+- [FormSite](https://www.formsite.com/) - Form buider, with payments, and form management.
+- [FormStack](https://www.formstack.com/) - Forms with A/B testing, partial submission, analytics, and integrations.
 - [Sheetsu](https://sheetsu.com/) - POST and GET your data to Google Spreadsheet.
-- [Simple Form](https://getsimpleform.com/)
-- [Typeform](http://www.typeform.com/)
+- [Typeform](http://www.typeform.com/) - Awesome forms that can be embedded.
 - [Wufoo](http://www.wufoo.com/)
 - [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html)
+- [Github Issues](https://help.github.com/articles/about-issues/)
 
 ### Email Backends
 
