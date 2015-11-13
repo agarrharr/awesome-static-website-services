@@ -62,6 +62,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Mou](http://25.io/mou/) - Markdown editor for developers.
 - [Markdown Plus](https://tylingsoft.com/mdp) - A markdown editor with extra features.
+- [Ulysses](http://ulyssesapp.com/) - A markdown editor for OS X and iPad.
 
 ## Command Line Tools
 
@@ -76,7 +77,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [JekyllThemes.org](http://jekyllthemes.org/) - Website showcasing Jekyll themes.
 - [Jekyll Wiki Themes](https://github.com/jekyll/jekyll/wiki/Themes)- List of themes on the Jekyll wiki.
-- [JekyllThemes.io](http://jekyllthemes.io/)- Premium and Free Jekyll Themes.
+- [JekyllThemes.io](http://jekyllthemes.io/) - Premium and Free Jekyll Themes.
 
 ## Static Site Generators
 
