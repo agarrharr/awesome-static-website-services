@@ -76,6 +76,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [JekyllThemes.org](http://jekyllthemes.org/) - Website showcasing Jekyll themes.
 - [Jekyll Wiki Themes](https://github.com/jekyll/jekyll/wiki/Themes)- List of themes on the Jekyll wiki.
+- [JekyllThemes.io](http://jekyllthemes.io/)- Premium and Free Jekyll Themes.
 
 ## Static Site Generators
 
