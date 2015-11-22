@@ -50,9 +50,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Prose](https://github.com/prose/prose) - A beautifully simple content authoring environment for static websites.
 - [Content Editor](https://github.com/mushishi78/content-editor)- A web interface for editing documents on GitHub.
 - [cloudcannon](http://cloudcannon.com/) - Free for 1 user, $9/month for 5 users. Hosting for static websites where developers can set it up so that non-developers can edit the site.
-- [potion](https://github.com/captn3m0/potion) - A github-pages compatible editor for jekyll blogs.
+- [potion](https://github.com/captn3m0/potion) - A github-pages compatible editor for Jekyll blogs.
 - [jekyll-post-via-web](https://github.com/vrypan/jekyll-post-via-web) - Html page that allows you to post new articles to your Github hosted site.
 - [Github's Online Interface](https://help.github.com/articles/github-flow-in-the-browser/) - You can just edit your site in Github's online interface if your site's code is hosted on Github.
+- [Siteleaf](http://www.siteleaf.com/)- Online editor content manager that allows you to publish anywhere, including Github Pages, and it has Jekyll support.
 
 ### Android Editors
 
@@ -67,8 +68,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Command Line Tools
 
 - [drjekyll](https://github.com/drjekyllthemes/drjekyll) - The missing static site theme package manager.
-- [Gynn](https://github.com/dmathieu/glynn) - Generate your jekyll blog files and sends them through FTP
-- [(JBH) Jekyll Blog Helper](https://github.com/AlanBarber/jbh) - A shell script to help manage a jekyll weblog site.
+- [Gynn](https://github.com/dmathieu/glynn) - Generate your Jekyll blog files and sends them through FTP
+- [(JBH) Jekyll Blog Helper](https://github.com/AlanBarber/jbh) - A shell script to help manage a Jekyll blog site.
 - [mrhyde](https://github.com/mrhydescripts/mrhyde) - Static site quick starter script wizard.
 
 ## Themes
