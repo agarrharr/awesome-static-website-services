@@ -17,7 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Embeddable Content](#embeddable-content)
   - [Audio](#audio)
   - [Books](#books)
-  - [Fitness Scheduling](#fitness-scheduling)
+  - [Calendar and Scheduling](#calendar-and-scheduling)
   - [Images](#images)
   - [Maps](#maps)
   - [Presentations](#presentations)
@@ -68,7 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Command Line Tools
 
 - [drjekyll](https://github.com/drjekyllthemes/drjekyll) - The missing static site theme package manager.
-- [Gynn](https://github.com/dmathieu/glynn) - Generate your Jekyll blog files and sends them through FTP
+- [Gynn](https://github.com/dmathieu/glynn) - Generate your Jekyll blog files and sends them through FTP.
 - [(JBH) Jekyll Blog Helper](https://github.com/AlanBarber/jbh) - A shell script to help manage a Jekyll blog site.
 - [mrhyde](https://github.com/mrhydescripts/mrhyde) - Static site quick starter script wizard.
 
@@ -97,8 +97,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Google Books](https://github.com/aharris88/google-bookshelves-widget) - Allows you to display the books in your Google Books Library.
 - [Goodreads API and widgets](https://www.goodreads.com/api) - Allows you to access any of the Goodreads data. Widgets are found on the widgets tab on your [settings page](https://www.goodreads.com/user/edit).
 
-### Fitness Scheduling
+### Calendar and Scheduling
 
+- [Google Calendar](http://calendar.google.com/) - Embeddable calendar that you can collaborate with other people.
+- [Booking.js](http://booking.timekit.io/) - Beautiful embeddable booking widget.
 - [zenplanner](http://zenplanner.com/) - Paid - Online scheduling for fitness.
 
 ### Images
@@ -128,7 +130,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Other Embeddable Content
 
-- [Google Calendar](http://calendar.google.com/) - Embeddable calendar that you can collaborate with other people.
 - [Sketch Fab](https://sketchfab.com/) - Embeddable 3D content.
 
 ### Code
@@ -166,9 +167,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [FormStack](https://www.formstack.com/) - Forms with A/B testing, partial submission, analytics, and integrations.
 - [Sheetsu](https://sheetsu.com/) - POST and GET your data to Google Spreadsheet.
 - [Typeform](http://www.typeform.com/) - Awesome forms that can be embedded.
-- [Wufoo](http://www.wufoo.com/)
-- [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html)
-- [Github Issues](https://help.github.com/articles/about-issues/)
+- [Wufoo](http://www.wufoo.com/) - Free or Paid - Forms that you can build with a form designer, with notifications, reports, and payments.
+- [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html) - Forms with file upload and captcha.
+- [Github Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama](https://github.com/sindresorhus/ama) for an example.
 
 ### Email Backends
 
