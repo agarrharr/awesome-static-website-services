@@ -174,17 +174,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Email Backends
 
-- [Nodemailer](http://nodemailer.com/)
+- [Nodemailer](https://github.com/andris9/Nodemailer) - Send e-mails with Node.JS.
 
 ### Live Chat
 
-- [jivochat](https://www.jivochat.com/)
-- [LiveChat](https://www.livechatinc.com/)
-- [Olark](https://www.olark.com/)
-- [SnapEngage](https://snapengage.com/)
-- [tawk.co](https://www.tawk.to/)
-- [WebsiteAlive](https://www.websitealive.com/)
-- [Zopim](https://www.zopim.com/)
+- [jivochat](https://www.jivochat.com/) - JivoSite is a professional live chat for websites that was specifically designed to increase your online sales.
+- [LiveChat](https://www.livechatinc.com/) - Live chat on your website.
+- [Olark](https://www.olark.com/) - Live chat on your website. You can also see who's on your website and what they're doing.
+- [SnapEngage](https://snapengage.com/) - Live chat with integrations and custom styles.
+- [tawk.co](https://www.tawk.to/) - Lets you monitor and chat with visitors on your website.
+- [WebsiteAlive](https://www.websitealive.com/) - Live chat for your website & social networks.
+- [Zopim](https://www.zopim.com/) - Live chat with free trial.
 
 ### Newsletters
 
