@@ -206,13 +206,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Static Hosting
 
-- [Aerobatic](http://www.aerobatic.com/)
-- [cloudcannon](http://cloudcannon.com/)
-- [Divshot](https://divshot.com/)
-- [Github Pages](https://pages.github.com/)
+- [Github Pages](https://pages.github.com/) - Free hosting from Github.
+- [Pancake](https://pancake.io/) - Simple and easy to use. Works with git or Dropbox.
+- [paperplane.io](https://www.paperplane.io/) - $9/month - Really simple static hosting with Github or Dropbox.
+- [cloudcannon](http://cloudcannon.com/) - starting at $25/month - Allows you to create static sites that are editable by non-developers.
 - [Netlify](https://www.netlify.com/)
-- [Pancake](https://pancake.io/)
-- [paperplane.io](https://www.paperplane.io/) - $9/month.
+- [Divshot](https://divshot.com/)
+- [Aerobatic](http://www.aerobatic.com/)
 - [site44](http://www.site44.com/)
 - [surge](https://surge.sh/)
 - [UpDog](https://updog.co/)
