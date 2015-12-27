@@ -27,14 +27,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Community](#community)
   - [Comments](#comments)
   - [Forms](#forms)
-  - [Email Backends](#email-backends)
   - [Live Chat](#live-chat)
   - [Newsletters](#newsletters)
   - [Social Media](#social-media)
   - [Surveys](#surveys)
 - [Static Hosting](#static-hosting)
   - [Hosting Tools](#hosting-tools)
-- [Email Services for Developers](#email-services-for-developers)
 - [E-Commerce](#e-commerce)
 - [Search](#search)
 - [Backends](#backends)
@@ -172,10 +170,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html) - Forms with file upload and captcha.
 - [Github Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama](https://github.com/sindresorhus/ama) for an example.
 
-### Email Backends
-
-- [Nodemailer](https://github.com/andris9/Nodemailer) - Send e-mails with Node.JS.
-
 ### Live Chat
 
 - [jivochat](https://www.jivochat.com/) - JivoSite is a professional live chat for websites that was specifically designed to increase your online sales.
@@ -188,11 +182,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Newsletters
 
-- [AWeber](http://www.aweber.com/)
-- [Campaign Monitor](https://www.campaignmonitor.com/)
-- [MailChimp](http://mailchimp.com/)
-- [MailerLite](https://www.mailerlite.com/)
-- [Sendicate](https://www.sendicate.net/)
+- [MailChimp](http://mailchimp.com/) - Free email marketing. You can pay to add more features.
+- [Constant Contact](http://www.constantcontact.com/) - starting at $29/month - Email marketing with campaigns, autoresponders, and analytics.
+- [AWeber](http://www.aweber.com/) - starting at $29/month - Email marketing with campaigns, autoresponders, and analytics.
+- [Campaign Monitor](https://www.campaignmonitor.com/) - starting at $9/month - Email marketing with campaigns, autoresponders, and analytics.
+- [MailerLite](https://www.mailerlite.com/) - Free email marketing. You can pay for more subscribers.
 
 ### Social Media
 
@@ -226,12 +220,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Hosting Tools
 
 - [s3_website](https://github.com/laurilehmijoki/s3_website) - Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features.
-
-## Email Services for Developers
-
-- [mailgun](http://www.mailgun.com/)
-- [mailjet](https://www.mailjet.com/)
-- [Mandrill by MailChimp](https://mandrill.com/)
 
 ## E-Commerce
 
