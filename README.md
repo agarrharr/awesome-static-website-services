@@ -190,19 +190,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Social Media
 
-- [Google+](https://developers.google.com/+/web/embedded-post/)
-- [Pinterest](https://developers.pinterest.com/)
-- [ShareThis](http://www.sharethis.com/)
-- [Storify](https://storify.com/)
-- [Twitter](https://dev.twitter.com/web/embedded-tweets)
+- [Google+](https://developers.google.com/+/web/embedded-post/) - Google+ embedded post.
+- [Pinterest](https://developers.pinterest.com/) - Pin It Button.
+- [Twitter](https://dev.twitter.com/web/embedded-tweets) - Embedded tweets.
+- [Facebook](https://developers.facebook.com/docs/plugins) - Facebook embedded plugins.
+- [ShareThis](http://www.sharethis.com/) - Sharing buttons for multiple social networks.
+- [Storify](https://storify.com/) - Embed various social media in one place.
 
 ### Surveys
 
-- [Google Forms](https://www.google.co.nz/forms/about/)
-- [PollDaddy](https://polldaddy.com/)
-- [SurveyMonkey](https://www.surveymonkey.com/)
-- [Typeform](http://www.typeform.com/)
-- [Qualaroo](https://qualaroo.com/)
+- [Google Forms](https://www.google.co.nz/forms/about/) - You can use Google forms for surveys or for forms on your site.
+- [SurveyMonkey](https://www.surveymonkey.com/) - Easy to use and free surveys.
+- [Typeform](http://www.typeform.com/) - Really beautiful forms.
+- [Qualaroo](https://qualaroo.com/) - Embed surveys anywhere on your website that comes up from the bottom right side of the screen.
 
 ## Static Hosting
 
