@@ -35,9 +35,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Hosting Tools](#hosting-tools)
 - [E-Commerce](#e-commerce)
 - [Search](#search)
-- [Backends](#backends)
 - [Analytics](#analytics)
-- [Front-end Error Trackers](#front-end-error-trackers)
 
 ---
 
@@ -210,12 +208,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Pancake](https://pancake.io/) - Simple and easy to use. Works with git or Dropbox.
 - [paperplane.io](https://www.paperplane.io/) - $9/month - Really simple static hosting with Github or Dropbox.
 - [cloudcannon](http://cloudcannon.com/) - starting at $25/month - Allows you to create static sites that are editable by non-developers.
-- [Netlify](https://www.netlify.com/)
-- [Divshot](https://divshot.com/)
-- [Aerobatic](http://www.aerobatic.com/)
-- [site44](http://www.site44.com/)
-- [surge](https://surge.sh/)
-- [UpDog](https://updog.co/)
+- [Netlify](https://www.netlify.com/) - starting at $7.5/month - Premium hosting service for static websites.
+- [Firebase Hosting](https://www.firebase.com/hosting.html) - starting at $5/month - Rapid deployment and a fast CDN.
+- [surge](https://surge.sh/) - Free hosting with your custom domain and it has a nice command line tool that works with grunt, gulp, and npm.
 
 ### Hosting Tools
 
@@ -223,54 +218,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## E-Commerce
 
-- [Ecwid](www.ecwid.com)
-- [FoxyCart](http://www.foxycart.com/)
-- [Google Checkout](https://checkout.google.com/seller/integrate_shoppingcart.html)
-- [Gumroad](https://gumroad.com/)
-- [Jekyll-Store](https://github.com/jekyll-store/front)
-- [Pay With A Tweet](http://www.paywithatweet.com/)
-- [PayPal](https://www.paypal.com/uk/cgi-bin/webscr?cmd=p/xcl/rec/sc-intro-outside)
-- [SnipCart](https://snipcart.com/)
-- [Stripe](https://stripe.com/)
-- [VHX](https://www.vhx.tv/)
+- [Ecwid](www.ecwid.com) - Embeddable shopping cart.
+- [FoxyCart](http://www.foxycart.com/) - Add a shopping cart with basic html code.
+- [SnipCart](https://snipcart.com/) - Include a few lines of code for a full online shop.
 
 ## Search
 
-- [Google Search](https://cse.google.com/cse/)
-- [Kimono Labs](https://www.kimonolabs.com/)
-- [lunr.js](http://lunrjs.com/)
-- [Swiftype](https://swiftype.com/)
-- [Tapirgo](http://tapirgo.com/)
-
-## Backends
-
-- [Cloudstitch](http://www.cloudstitch.com/) - Use Google Sheets as a CMS.
-- [Contentful](https://www.contentful.com/) - API-first CMS with a markdown text editor.
-- [FireBase](https://www.firebase.com/)
-- [Hull](http://www.hull.io/)
-- [Parse] (https://parse.com/)
-- [Sheetsu](https://sheetsu.com/) - POST and GET your data to Google Spreadsheet.
-- [UserApp](https://www.userapp.io/)
+- [lunr.js](http://lunrjs.com/) - Simple full-text search in your browser.
+- [Google Custom Search Engine](https://cse.google.com/cse/) - Search your site with a custom Google Search.
 
 ## Analytics
 
-- [Clicky](https://clicky.com/)
-- [CrazyEgg](http://www.crazyegg.com/)
-- [Gauges](http://get.gaug.es/)
-- [Google Analytics](http://www.google.com/analytics/)
-- [Heap](https://heapanalytics.com/)
-- [Hubspot](http://www.hubspot.com)
-- [Kissmetrics](https://www.kissmetrics.com/)
-- [Mixpanel](https://mixpanel.com/)
-- [Optimizely](https://www.optimizely.com/)
-- [Segment](https://segment.com/)
-
-## Front-end Error Trackers
-
-- [Errorception](https://errorception.com/)
-- [GetSentry](https://getsentry.com/welcome/)
-- [NewRelic](http://newrelic.com/)
-- [Raygun](https://raygun.io/)
+- [Google Analytics](http://www.google.com/analytics/) - Free website analytics.
 
 ## License
 
