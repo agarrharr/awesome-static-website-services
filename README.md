@@ -49,7 +49,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [potion](https://github.com/captn3m0/potion) - A github-pages compatible editor for Jekyll blogs.
 - [jekyll-post-via-web](https://github.com/vrypan/jekyll-post-via-web) - Html page that allows you to post new articles to your Github hosted site.
 - [Github's Online Interface](https://help.github.com/articles/github-flow-in-the-browser/) - You can just edit your site in Github's online interface if your site's code is hosted on Github.
-- [Siteleaf](http://www.siteleaf.com/)- Online editor content manager that allows you to publish anywhere, including Github Pages, and it has Jekyll support.
+- [Siteleaf](http://www.siteleaf.com/) - Online editor content manager that allows you to publish anywhere, including Github Pages, and it has Jekyll support.
+- [Silex website builder](http://www.silex.me/) - open source HTML editor which lets you create websites directly in the browser.
 
 ### Android Editors
 
@@ -211,6 +212,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Netlify](https://www.netlify.com/) - starting at $7.5/month - Premium hosting service for static websites.
 - [Firebase Hosting](https://www.firebase.com/hosting.html) - starting at $5/month - Rapid deployment and a fast CDN.
 - [surge](https://surge.sh/) - Free hosting with your custom domain and it has a nice command line tool that works with grunt, gulp, and npm.
+- [Forge](https://getforge.com/) - Static web hosting made simple, sync with github and publish to CDN and optimize your javascript, free for 1 site and starts at $10/month for custom domains.
 
 ### Hosting Tools
 
