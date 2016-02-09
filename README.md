@@ -50,6 +50,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [jekyll-post-via-web](https://github.com/vrypan/jekyll-post-via-web) - Html page that allows you to post new articles to your Github hosted site.
 - [Github's Online Interface](https://help.github.com/articles/github-flow-in-the-browser/) - You can just edit your site in Github's online interface if your site's code is hosted on Github.
 - [Siteleaf](http://www.siteleaf.com/)- Online editor content manager that allows you to publish anywhere, including Github Pages, and it has Jekyll support.
+- [Surreal CMS](http://www.surrealcms.com/) - Hosted CMS for static sites over FTP or Amazon S3.
 
 ### Android Editors
 
