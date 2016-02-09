@@ -213,6 +213,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Netlify](https://www.netlify.com/) - starting at $7.5/month - Premium hosting service for static websites.
 - [Firebase Hosting](https://www.firebase.com/hosting.html) - starting at $5/month - Rapid deployment and a fast CDN.
 - [surge](https://surge.sh/) - Free hosting with your custom domain and it has a nice command line tool that works with grunt, gulp, and npm.
+- [Forge](https://getforge.com/) - Free for 1 site and starts at $10/month for custom domains - Static web hosting made simple, sync with github and publish to CDN and optimize your javascript.
 
 ### Hosting Tools
 
