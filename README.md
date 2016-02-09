@@ -61,6 +61,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mou](http://25.io/mou/) - Markdown editor for developers.
 - [Markdown Plus](https://tylingsoft.com/mdp) - A markdown editor with extra features.
 - [Ulysses](http://ulyssesapp.com/) - A markdown editor for OS X and iPad.
+- [Typora](http://www.typora.io/) - A beautifully minimal markdown editor for OS X and Windows, with seamless live preview.
 
 ## Command Line Tools
 
