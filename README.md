@@ -43,6 +43,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Online Editors
 
+- [Appernetic] (https://appernetic.io) - A Static Site Generator as a Service.
 - [Prose](https://github.com/prose/prose) - A beautifully simple content authoring environment for static websites.
 - [Content Editor](https://github.com/mushishi78/content-editor)- A web interface for editing documents on GitHub.
 - [CloudCannon](http://cloudcannon.com/) - Hosting for static websites where developers can set it up so that non-developers can edit the site. Basic plan starts at $25 per user.
