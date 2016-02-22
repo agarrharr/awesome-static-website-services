@@ -62,6 +62,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Markdown Plus](http://mdp.tylingsoft.com) - A markdown editor with extra features.
 - [Ulysses](http://ulyssesapp.com/) - A markdown editor for OS X and iPad.
 - [Typora](http://www.typora.io/) - A beautifully minimal markdown editor for OS X and Windows, with seamless live preview.
+- [MacDown](http://macdown.uranusjr.com) - The open source Markdown editor for OS X. Heavily influenced by Mou.
 
 ## Command Line Tools
 
