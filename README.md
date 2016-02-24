@@ -46,7 +46,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Appernetic] (https://appernetic.io) - A Static Site Generator as a Service.
 - [Prose](https://github.com/prose/prose) - A beautifully simple content authoring environment for static websites.
 - [Content Editor](https://github.com/mushishi78/content-editor)- A web interface for editing documents on GitHub.
-- [CloudCannon](http://cloudcannon.com/) - Hosting for static websites where developers can set it up so that non-developers can edit the site. Basic plan starts at $25 per user.
 - [potion](https://github.com/captn3m0/potion) - A github-pages compatible editor for Jekyll blogs.
 - [jekyll-post-via-web](https://github.com/vrypan/jekyll-post-via-web) - Html page that allows you to post new articles to your Github hosted site.
 - [Github's Online Interface](https://help.github.com/articles/github-flow-in-the-browser/) - You can just edit your site in Github's online interface if your site's code is hosted on Github.
@@ -185,9 +184,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Newsletters
 
 - [MailChimp](http://mailchimp.com/) - Free email marketing. You can pay to add more features.
-- [Constant Contact](http://www.constantcontact.com/) - starting at $29/month - Email marketing with campaigns, autoresponders, and analytics.
-- [AWeber](http://www.aweber.com/) - starting at $29/month - Email marketing with campaigns, autoresponders, and analytics.
-- [Campaign Monitor](https://www.campaignmonitor.com/) - starting at $9/month - Email marketing with campaigns, autoresponders, and analytics.
+- [Constant Contact](http://www.constantcontact.com/) - Email marketing with campaigns, autoresponders, and analytics.
+- [AWeber](http://www.aweber.com/) - Email marketing with campaigns, autoresponders, and analytics.
+- [Campaign Monitor](https://www.campaignmonitor.com/) - Email marketing with campaigns, autoresponders, and analytics.
 - [MailerLite](https://www.mailerlite.com/) - Free email marketing. You can pay for more subscribers.
 
 ### Social Media
@@ -210,12 +209,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Github Pages](https://pages.github.com/) - Free hosting from Github.
 - [Pancake](https://pancake.io/) - Simple and easy to use. Works with git or Dropbox.
-- [paperplane.io](https://www.paperplane.io/) - $9/month - Really simple static hosting with Github or Dropbox.
-- [cloudcannon](http://cloudcannon.com/) - starting at $25/month - Allows you to create static sites that are editable by non-developers.
-- [Netlify](https://www.netlify.com/) - starting at $7.5/month - Premium hosting service for static websites.
-- [Firebase Hosting](https://www.firebase.com/hosting.html) - starting at $5/month - Rapid deployment and a fast CDN.
+- [paperplane.io](https://www.paperplane.io/) - Really simple static hosting with Github or Dropbox.
+- [cloudcannon](http://cloudcannon.com/) - Allows you to create static sites that are editable by non-developers.
+- [Netlify](https://www.netlify.com/) - Premium hosting service for static websites.
+- [Firebase Hosting](https://www.firebase.com/hosting.html) - Rapid deployment and a fast CDN.
 - [surge](https://surge.sh/) - Free hosting with your custom domain and it has a nice command line tool that works with grunt, gulp, and npm.
-- [Forge](https://getforge.com/) - Free for 1 site and starts at $10/month for custom domains - Static web hosting made simple, sync with github and publish to CDN and optimize your javascript.
+- [Forge](https://getforge.com/) - Static web hosting made simple, sync with github and publish to CDN and optimize your javascript.
+- [CloudCannon](http://cloudcannon.com/) - Hosting for static websites where developers can set it up so that non-developers can edit the site.
+- [BowTie](https://bowtie.io/) - Static website hosting with online editor (using prose).
 
 ### Hosting Tools
 
