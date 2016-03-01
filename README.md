@@ -105,7 +105,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Images
 
 - [Flickr](https://www.flickr.com/) - Online photo hosting by Yahoo.
-- [imgur](http://imgur.com/) - Online photo hosting.
 
 ### Maps
 
