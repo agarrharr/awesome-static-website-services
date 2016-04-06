@@ -70,6 +70,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Gynn](https://github.com/dmathieu/glynn) - Generate your Jekyll blog files and sends them through FTP.
 - [(JBH) Jekyll Blog Helper](https://github.com/AlanBarber/jbh) - A shell script to help manage a Jekyll blog site.
 - [mrhyde](https://github.com/mrhydescripts/mrhyde) - Static site quick starter script wizard.
+- [jtasks](https://github.com/pavdmyt/jtasks) - A set of configurable tasks for Jekyll projects.
 
 ## Themes
 
