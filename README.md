@@ -56,6 +56,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [MrHyde](https://play.google.com/store/apps/details?id=org.faudroids.mrhyde) - Allows you to write and edit posts on Github.
 
+### iOS Editors
+
+- [Git2Go](https://github.com/herrbischoff/awesome-osx-command-line) - A git client for iPhone and iPad.
+- [Working Copy](http://workingcopyapp.com/) - A powerful git client for iOS.
+
 ### Markdown Editors
 
 - [Mou](http://25.io/mou/) - Markdown editor for developers.
