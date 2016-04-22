@@ -212,16 +212,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Static Hosting
 
+- [Aerobatic](https://www.aerobatic.com) - Free hosting with SSL, CDN, Automatic Builds, and CORS proxy
+- [BowTie](https://bowtie.io/) - Static website hosting with online editor (using prose).
+- [CloudCannon](http://cloudcannon.com/) - Hosting for static websites where developers can set it up so that non-developers can edit the site.
+- [Firebase Hosting](https://www.firebase.com/hosting.html) - Rapid deployment and a fast CDN.
+- [Forge](https://getforge.com/) - Static web hosting made simple, sync with github and publish to CDN and optimize your javascript.
 - [Github Pages](https://pages.github.com/) - Free hosting from Github.
+- [Netlify](https://www.netlify.com/) - Premium hosting service for static websites.
 - [Pancake](https://pancake.io/) - Simple and easy to use. Works with git or Dropbox.
 - [paperplane.io](https://www.paperplane.io/) - Really simple static hosting with Github or Dropbox.
-- [cloudcannon](http://cloudcannon.com/) - Allows you to create static sites that are editable by non-developers.
-- [Netlify](https://www.netlify.com/) - Premium hosting service for static websites.
-- [Firebase Hosting](https://www.firebase.com/hosting.html) - Rapid deployment and a fast CDN.
 - [surge](https://surge.sh/) - Free hosting with your custom domain and it has a nice command line tool that works with grunt, gulp, and npm.
-- [Forge](https://getforge.com/) - Static web hosting made simple, sync with github and publish to CDN and optimize your javascript.
-- [CloudCannon](http://cloudcannon.com/) - Hosting for static websites where developers can set it up so that non-developers can edit the site.
-- [BowTie](https://bowtie.io/) - Static website hosting with online editor (using prose).
 
 ### Hosting Tools
 
