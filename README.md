@@ -223,6 +223,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [CloudCannon](http://cloudcannon.com/) - Hosting for static websites where developers can set it up so that non-developers can edit the site.
 - [BowTie](https://bowtie.io/) - Static website hosting with online editor (using prose).
 - [GitLab Pages](https://pages.gitlab.io/) - Free static hosting from GitLab.
+- [Aerobatic](https://www.aerobatic.com) - Free hosting with SSL, CDN, Automatic Builds, and CORS proxy
 
 ### Hosting Tools
 
