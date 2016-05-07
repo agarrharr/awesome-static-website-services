@@ -141,6 +141,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Codepen](http://codepen.io/) - A playground of embeddable front-end code examples.
 - [JS Bin](http://jsbin.com/) - Embeddable front-end code examples.
 - [JSFiddle](http://jsfiddle.net/) - Embeddable front-end code examples.
+- [highlight.js](https://highlightjs.org/) - Syntax highlighting for the web.
 
 ## Community
 
@@ -234,11 +235,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Ecwid](www.ecwid.com) - Embeddable shopping cart.
 - [FoxyCart](http://www.foxycart.com/) - Add a shopping cart with basic html code.
 - [SnipCart](https://snipcart.com/) - Include a few lines of code for a full online shop.
+- [Gumroad](https://gumroad.com/) - An all-in-one solution to sell your work.
 
 ## Search
 
 - [lunr.js](http://lunrjs.com/) - Simple full-text search in your browser.
 - [Google Custom Search Engine](https://cse.google.com/cse/) - Search your site with a custom Google Search.
+- [Algolia](https://www.algolia.com/) - Hosted Search API that delivers instant and relevant results from the first keystroke.
 
 ## Analytics
 
