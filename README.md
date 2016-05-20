@@ -60,6 +60,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Git2Go](https://github.com/herrbischoff/awesome-osx-command-line) - A git client for iPhone and iPad.
 - [Working Copy](http://workingcopyapp.com/) - A powerful git client for iOS.
+- [Editorial](http://omz-software.com/editorial/) - Plaintext/Markdown editor, programmable workflows, templates, can post to GitHub Pages and other platforms.
 
 ### Markdown Editors
 
