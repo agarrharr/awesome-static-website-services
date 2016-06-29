@@ -163,6 +163,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Flipmail](http://flipmail.co/) - Simple form processing and response retrieval via email.
 - [MailThis](http://mailthis.to/)- Simple form submissions via email with optional attachments.
 - [Simple Form](https://getsimpleform.com/) - Simple forms with optional file attachments, email notifications, and online submission viewing.
+- [Brisk Forms](https://www.briskforms.com/) - Free form submission emails you responses and keeps email address private.
 
 #### Normal Forms
 
