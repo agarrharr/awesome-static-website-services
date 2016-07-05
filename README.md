@@ -252,7 +252,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
  
 ## Showcases
 
-- [Static Showdown](https://staticshowdown.com)
+- [Static Showdown](https://staticshowdown.com) - Worldwide 48-hour virtual hackathon for progressive web apps.
 
 ----
 
