@@ -36,6 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [E-Commerce](#e-commerce)
 - [Search](#search)
 - [Analytics](#analytics)
+- [Showcases](#showcases)
 
 ---
 
@@ -248,6 +249,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Analytics
 
 - [Google Analytics](http://www.google.com/analytics/) - Free website analytics.
+ 
+## Showcases
+
+- [Static Showdown](https://staticshowdown.com)
+
+----
 
 ## License
 
