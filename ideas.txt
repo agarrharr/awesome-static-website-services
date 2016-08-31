@@ -1,9 +1,6 @@
-Way to get csv data from Google Drive
+How to get csv data from Google Drive
 In the spreadsheet, go to "Publish" and choose "CSV". Copy the link, which I'll call URL in the next part
 wget 'URL' -O _data/mydata.csv
-
-Jekyll Cheat Sheet
-http://cheat.jekyll.tips/
 
 Booking.js
 https://github.com/timekit-io/booking-js
