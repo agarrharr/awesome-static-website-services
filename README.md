@@ -11,9 +11,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Android Editors](#android-editors)
   - [Markdown Editors](#markdown-editors)
 - [Command Line Tools](#command-line-tools)
-- [Themes](#themes)
-  - [Jekyll Themes](#jekyll-themes)
-- [Static Site Generators](#static-site-generators)
 - [Embeddable Content](#embeddable-content)
   - [Audio](#audio)
   - [Books](#books)
@@ -78,18 +75,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [(JBH) Jekyll Blog Helper](https://github.com/AlanBarber/jbh) - A shell script to help manage a Jekyll blog site.
 - [mrhyde](https://github.com/mrhydescripts/mrhyde) - Static site quick starter script wizard.
 - [jtasks](https://github.com/pavdmyt/jtasks) - A set of configurable tasks for Jekyll projects.
-
-## Themes
-
-### Jekyll Themes
-
-- [JekyllThemes.org](http://jekyllthemes.org/) - Website showcasing Jekyll themes.
-- [Jekyll Wiki Themes](https://github.com/jekyll/jekyll/wiki/Themes) - List of themes on the Jekyll wiki.
-- [JekyllThemes.io](http://jekyllthemes.io/) - Premium and Free Jekyll Themes.
-
-## Static Site Generators
-
-- [StaticGen](http://www.staticgen.com/) - Website showing static site generators and a lot of info about them.
 
 ## Embeddable Content
 
@@ -249,7 +234,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Analytics
 
 - [Google Analytics](http://www.google.com/analytics/) - Free website analytics.
- 
+
 ## Showcases
 
 - [Static Showdown](https://staticshowdown.com) - Worldwide 48-hour virtual hackathon for progressive web apps.
