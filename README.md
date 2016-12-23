@@ -41,7 +41,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Online Editors
 
-- [Appernetic] (https://appernetic.io) - A Static Site Generator as a Service.
+- [Forestry.io](https://forestry.io) - A CMS for Jekyll and Hugo sites. Host anywhere (GitHub Pages, Amazon S3, FTP, etc) and access your static CMS from `site.com/admin/`.
+- [Appernetic](https://appernetic.io) - A Static Site Generator as a Service.
 - [Prose](https://github.com/prose/prose) - A beautifully simple content authoring environment for static websites.
 - [Content Editor](https://github.com/mushishi78/content-editor) - A web interface for editing documents on GitHub.
 - [potion](https://github.com/captn3m0/potion) - A github-pages compatible editor for Jekyll blogs.
