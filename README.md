@@ -54,6 +54,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Github's Online Interface](https://help.github.com/articles/github-flow-in-the-browser/) - You can just edit your site in Github's online interface if your site's code is hosted on Github.
 - [Siteleaf](http://www.siteleaf.com/) - Online editor content manager that allows you to publish anywhere, including Github Pages, and it has Jekyll support.
 - [Surreal CMS](http://www.surrealcms.com/) - Hosted CMS for static sites over FTP or Amazon S3.
+- [Contentful](https://www.contentful.com/features/) - Enterprise-grade content editing for anything (more than just static sites)
 
 ### Android Editors
 
