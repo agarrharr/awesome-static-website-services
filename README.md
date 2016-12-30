@@ -153,8 +153,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [AWS Lambda](https://aws.amazon.com/lambda/) - AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume
 - [Google Cloud Functions](https://cloud.google.com/functions/) - Create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment
 - [Webtask by Auth0](https://webtask.io/) - Call code on the server with simple HTTP, easier to set up by far than Lambda or Google's
+- [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) - by Microsoft - same premise as Lambda on the Azure cloud
 - [IronWorkers](https://www.iron.io/platform/ironworker/) - by Iron.io - Run code in a multilanguage containerized environment with unlimited scale and simple pricing
 - [IronFunctions](http://open.iron.io/) - by Iron.io - IronFunctions is an open source serverless computing platform for any cloud - private, public, or hybrid.
+- [OpenWhisk by IBM](https://console.ng.bluemix.net/openwhisk/) - part of their BlueMix hosting platform, and open source, ties into their Watson AI ecosystem nicely
 
 ## Community
 
