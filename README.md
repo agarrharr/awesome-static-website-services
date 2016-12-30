@@ -45,7 +45,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Online Editors
 
-- [Forestry.io](https://) - A CMS for Jekyll and Hugo sites. Host anywhere (GitHub Pages, Amazon S3, FTP, etc) and access your static CMS from `site.com/admin/`.
+- [Forestry.io](https://forestry.io) - A CMS for Jekyll and Hugo sites. Host anywhere (GitHub Pages, Amazon S3, FTP, etc) and access your static CMS from `site.com/admin/`.
 - [Netlify CMS](https://github.com/netlify/netlify-cms) - A CMS for static site generators, similar to Forestry but Open Source. Currently in Alpha.
 - [Appernetic](https://appernetic.io) - A Static Site Generator as a Service.
 - [Prose](https://github.com/prose/prose) - A beautifully simple content authoring environment for static websites.
