@@ -21,6 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Video](#video)
   - [Other Embeddable Content](#other-embeddable-content)
 - [Code](#code)
+- [Functions as a Service FaaS](#faas)
 - [Community](#community)
   - [Comments](#comments)
   - [Forms](#forms)
@@ -132,6 +133,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JS Bin](http://jsbin.com/) - Embeddable front-end code examples.
 - [JSFiddle](http://jsfiddle.net/) - Embeddable front-end code examples.
 - [highlight.js](https://highlightjs.org/) - Syntax highlighting for the web.
+
+## Functions as a Service (FaaS)
+- [AWS Lambda](https://aws.amazon.com/lambda/) - AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume
+- [Google Cloud Functions](https://cloud.google.com/functions/) - Create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment
+- [Webtask by Auth0](https://webtask.io/) - Call code on the server with simple HTTP, easier to set up by far than Lambda or Google's
+- [IronWorkers](https://www.iron.io/platform/ironworker/) - by Iron.io - Run code in a multilanguage containerized environment with unlimited scale and simple pricing
+- [IronFunctions](http://open.iron.io/) - by Iron.io - IronFunctions is an open source serverless computing platform for any cloud - private, public, or hybrid.
 
 ## Community
 
