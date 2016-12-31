@@ -21,6 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Video](#video)
   - [Other Embeddable Content](#other-embeddable-content)
 - [Code](#code)
+- [Functions as a Service FaaS](#faas)
 - [Community](#community)
   - [Comments](#comments)
   - [Forms](#forms)
@@ -42,6 +43,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Online Editors
 
 - [Forestry.io](https://forestry.io) - A CMS for Jekyll and Hugo sites. Host anywhere (GitHub Pages, Amazon S3, FTP, etc) and access your static CMS from `site.com/admin/`.
+- [Netlify CMS](https://github.com/netlify/netlify-cms) - A CMS for static site generators, similar to Forestry but Open Source. Currently in Alpha.
 - [Appernetic](https://appernetic.io) - A Static Site Generator as a Service.
 - [Prose](https://github.com/prose/prose) - A beautifully simple content authoring environment for static websites.
 - [Content Editor](https://github.com/mushishi78/content-editor) - A web interface for editing documents on GitHub.
@@ -50,6 +52,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Github's Online Interface](https://help.github.com/articles/github-flow-in-the-browser/) - You can just edit your site in Github's online interface if your site's code is hosted on Github.
 - [Siteleaf](http://www.siteleaf.com/) - Online editor content manager that allows you to publish anywhere, including Github Pages, and it has Jekyll support.
 - [Surreal CMS](http://www.surrealcms.com/) - Hosted CMS for static sites over FTP or Amazon S3.
+- [Contentful](https://www.contentful.com/features/) - Enterprise-grade content editing for anything (more than just static sites)
 
 ### Android Editors
 
@@ -130,6 +133,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JS Bin](http://jsbin.com/) - Embeddable front-end code examples.
 - [JSFiddle](http://jsfiddle.net/) - Embeddable front-end code examples.
 - [highlight.js](https://highlightjs.org/) - Syntax highlighting for the web.
+
+## Functions as a Service (FaaS)
+- [AWS Lambda](https://aws.amazon.com/lambda/) - AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume
+- [Google Cloud Functions](https://cloud.google.com/functions/) - Create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment
+- [Webtask by Auth0](https://webtask.io/) - Call code on the server with simple HTTP, easier to set up by far than Lambda or Google's
+- [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) - by Microsoft - same premise as Lambda on the Azure cloud
+- [IronWorkers](https://www.iron.io/platform/ironworker/) - by Iron.io - Run code in a multilanguage containerized environment with unlimited scale and simple pricing
+- [IronFunctions](http://open.iron.io/) - by Iron.io - IronFunctions is an open source serverless computing platform for any cloud - private, public, or hybrid.
+- [OpenWhisk by IBM](https://console.ng.bluemix.net/openwhisk/) - part of their BlueMix hosting platform, and open source, ties into their Watson AI ecosystem nicely
 
 ## Community
 
