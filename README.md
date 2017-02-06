@@ -6,23 +6,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
-- [Editors](#editors)
-  - [Online Editors](#online-editors)
-  - [Android Editors](#android-editors)
-  - [Markdown Editors](#markdown-editors)
-- [Command Line Tools](#command-line-tools)
-- [Themes](#themes)
-  - [Jekyll Themes](#jekyll-themes)
-- [Static Site Generators](#static-site-generators)
-- [Embeddable Content](#embeddable-content)
-  - [Audio](#audio)
-  - [Books](#books)
-  - [Calendar and Scheduling](#calendar-and-scheduling)
-  - [Images](#images)
-  - [Maps](#maps)
-  - [Presentations](#presentations)
-  - [Video](#video)
-  - [Other Embeddable Content](#other-embeddable-content)
+- [Audio](#audio)
+- [Books](#books)
+- [Calendar and Scheduling](#calendar-and-scheduling)
+- [Images](#images)
+- [Maps](#maps)
+- [Presentations](#presentations)
+- [Video](#video)
 - [Code](#code)
 - [Functions as a Service FaaS](#faas)
 - [Community](#community)
@@ -32,115 +22,53 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Newsletters](#newsletters)
   - [Social Media](#social-media)
   - [Surveys](#surveys)
-- [Static Hosting](#static-hosting)
-  - [Hosting Tools](#hosting-tools)
 - [E-Commerce](#e-commerce)
 - [Search](#search)
 - [Analytics](#analytics)
-- [Showcases](#showcases)
+- [Other](#other-embeddable-content)
 
 ---
 
-## Editors
-
-### Online Editors
-
-- [Forestry.io](https://forestry.io) - A CMS for Jekyll and Hugo sites. Host anywhere (GitHub Pages, Amazon S3, FTP, etc) and access your static CMS from `site.com/admin/`.
-- [Netlify CMS](https://github.com/netlify/netlify-cms) - A CMS for static site generators, similar to Forestry but Open Source. Currently in Alpha.
-- [Appernetic](https://appernetic.io) - A Static Site Generator as a Service.
-- [Prose](https://github.com/prose/prose) - A beautifully simple content authoring environment for static websites.
-- [Content Editor](https://github.com/mushishi78/content-editor) - A web interface for editing documents on GitHub.
-- [potion](https://github.com/captn3m0/potion) - A github-pages compatible editor for Jekyll blogs.
-- [jekyll-post-via-web](https://github.com/vrypan/jekyll-post-via-web) - Html page that allows you to post new articles to your Github hosted site.
-- [Github's Online Interface](https://help.github.com/articles/github-flow-in-the-browser/) - You can just edit your site in Github's online interface if your site's code is hosted on Github.
-- [Siteleaf](http://www.siteleaf.com/) - Online editor content manager that allows you to publish anywhere, including Github Pages, and it has Jekyll support.
-- [Surreal CMS](http://www.surrealcms.com/) - Hosted CMS for static sites over FTP or Amazon S3.
-- [Contentful](https://www.contentful.com/features/) - Enterprise-grade content editing for anything (more than just static sites)
-
-### Android Editors
-
-- [MrHyde](https://play.google.com/store/apps/details?id=org.faudroids.mrhyde) - Allows you to write and edit posts on Github.
-
-### iOS Editors
-
-- [Git2Go](https://github.com/herrbischoff/awesome-osx-command-line) - A git client for iPhone and iPad.
-- [Working Copy](http://workingcopyapp.com/) - A powerful git client for iOS.
-- [Editorial](http://omz-software.com/editorial/) - Plaintext/Markdown editor, programmable workflows, templates, can post to GitHub Pages and other platforms.
-
-### Markdown Editors
-
-- [Mou](http://25.io/mou/) - Markdown editor for developers.
-- [Markdown Plus](http://mdp.tylingsoft.com) - A markdown editor with extra features.
-- [Ulysses](http://ulyssesapp.com/) - A markdown editor for OS X and iPad.
-- [Typora](http://www.typora.io/) - A beautifully minimal markdown editor for OS X and Windows, with seamless live preview.
-- [MacDown](http://macdown.uranusjr.com) - The open source Markdown editor for OS X. Heavily influenced by Mou.
-
-## Command Line Tools
-
-- [drjekyll](https://github.com/drjekyllthemes/drjekyll) - The missing static site theme package manager.
-- [Gynn](https://github.com/dmathieu/glynn) - Generate your Jekyll blog files and sends them through FTP.
-- [(JBH) Jekyll Blog Helper](https://github.com/AlanBarber/jbh) - A shell script to help manage a Jekyll blog site.
-- [mrhyde](https://github.com/mrhydescripts/mrhyde) - Static site quick starter script wizard.
-- [jtasks](https://github.com/pavdmyt/jtasks) - A set of configurable tasks for Jekyll projects.
-
-## Themes
-
-### Jekyll Themes
-
-- [JekyllThemes.org](http://jekyllthemes.org/) - Website showcasing Jekyll themes.
-- [Jekyll Wiki Themes](https://github.com/jekyll/jekyll/wiki/Themes) - List of themes on the Jekyll wiki.
-- [JekyllThemes.io](http://jekyllthemes.io/) - Premium and Free Jekyll Themes.
-
-## Static Site Generators
-
-- [StaticGen](http://www.staticgen.com/) - Website showing static site generators and a lot of info about them.
-
-## Embeddable Content
-
-### Audio
+## Audio
 
 - [SoundCloud](https://soundcloud.com/) - Audio hosting with an embeddable player. Up to 3 hours of content is free.
 - [Mixcloud](https://www.mixcloud.com/) - Audio hosting with unlimited uploads and an embeddable player.
 - [Spotify](https://www.spotify.com/) - You can embed any song, album, or playlist with a [Spotify Play Button](https://developer.spotify.com/technologies/widgets/spotify-play-button/).
 
-### Books
+## Books
 
 - [Google Books](https://github.com/aharris88/google-bookshelves-widget) - Allows you to display the books in your Google Books Library.
 - [Goodreads API and widgets](https://www.goodreads.com/api) - Allows you to access any of the Goodreads data. Widgets are found on the widgets tab on your [settings page](https://www.goodreads.com/user/edit).
 
-### Calendar and Scheduling
+## Calendar and Scheduling
 
 - [Google Calendar](http://calendar.google.com/) - Embeddable calendar that you can collaborate with other people.
 - [Booking.js](http://booking.timekit.io/) - Beautiful embeddable booking widget.
 - [zenplanner](http://zenplanner.com/) - Paid - Online scheduling for fitness.
 
-### Images
+## Images
 
 - [Flickr](https://www.flickr.com/) - Online photo hosting by Yahoo.
 
-### Maps
+## Maps
 
 - [Google Maps](http://maps.google.com/) - Google maps are easily embeddable.
 - [Mapbox](https://www.mapbox.com/) - Really nice looking embeddable maps.
 
-### Presentations
+## Presentations
 
 - [Prezi](https://prezi.com/) - Online presentations with really transitions that can zoom and rotate.
 - [Reveal.js](http://lab.hakim.se/reveal-js/) - HTML presentation framework.
 - [Slides.com](http://slides.com/) - A place for creating, presenting and sharing slide decks.
 - [SpeakerDeck](https://speakerdeck.com/) - Upload your slides as a PDF, and get an online, shareable presentation.
 
-### Video
+## Video
 
 - [YouTube](https://www.youtube.com/) - Embeddable videos with unlimited uploads.
 - [Vimeo](https://vimeo.co/) - Paid - Embeddable videos with no ads.
 - [Vevo](http://www.vevo.com/) - Embeddable music videos.
 - [Vine](https://vine.co/) - Embeddable vine videos.
 - [Wistia](http://wistia.com/) - Free plan has a limit of 25 videos.
-
-### Other Embeddable Content
-
-- [Sketch Fab](https://sketchfab.com/) - Embeddable 3D content.
 
 ### Code
 
@@ -227,25 +155,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Typeform](http://www.typeform.com/) - Really beautiful forms.
 - [Qualaroo](https://qualaroo.com/) - Embed surveys anywhere on your website that comes up from the bottom right side of the screen.
 
-## Static Hosting
-
-- [Github Pages](https://pages.github.com/) - Free hosting from Github.
-- [Pancake](https://pancake.io/) - Simple and easy to use. Works with git or Dropbox.
-- [paperplane.io](https://www.paperplane.io/) - Really simple static hosting with Github or Dropbox.
-- [cloudcannon](http://cloudcannon.com/) - Allows you to create static sites that are editable by non-developers.
-- [Netlify](https://www.netlify.com/) - Premium hosting service for static websites.
-- [Firebase Hosting](https://www.firebase.com/hosting.html) - Rapid deployment and a fast CDN.
-- [surge](https://surge.sh/) - Free hosting with your custom domain and it has a nice command line tool that works with grunt, gulp, and npm.
-- [Forge](https://getforge.com/) - Static web hosting made simple, sync with github and publish to CDN and optimize your javascript.
-- [CloudCannon](http://cloudcannon.com/) - Hosting for static websites where developers can set it up so that non-developers can edit the site.
-- [BowTie](https://bowtie.io/) - Static website hosting with online editor (using prose).
-- [GitLab Pages](https://pages.gitlab.io/) - Free static hosting from GitLab.
-- [Aerobatic](https://www.aerobatic.com) - Free hosting with SSL, CDN, Automatic Builds, and CORS proxy
-
-### Hosting Tools
-
-- [s3_website](https://github.com/laurilehmijoki/s3_website) - Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features.
-
 ## E-Commerce
 
 - [Ecwid](www.ecwid.com) - Embeddable shopping cart.
@@ -262,10 +171,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Analytics
 
 - [Google Analytics](http://www.google.com/analytics/) - Free website analytics.
- 
-## Showcases
 
-- [Static Showdown](https://staticshowdown.com) - Worldwide 48-hour virtual hackathon for progressive web apps.
+## Other
+
+- [Sketch Fab](https://sketchfab.com/) - Embeddable 3D content.
 
 ----
 
