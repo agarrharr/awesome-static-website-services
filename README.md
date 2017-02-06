@@ -79,6 +79,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [(JBH) Jekyll Blog Helper](https://github.com/AlanBarber/jbh) - A shell script to help manage a Jekyll blog site.
 - [mrhyde](https://github.com/mrhydescripts/mrhyde) - Static site quick starter script wizard.
 - [jtasks](https://github.com/pavdmyt/jtasks) - A set of configurable tasks for Jekyll projects.
+- [Jekyll Progressive Web App Generator](https://github.com/nirgn975/generator-jekyll-starter-kit) - A Jekyll PWA yeoman generator.
 
 ## Embeddable Content
 
