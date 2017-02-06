@@ -14,7 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Presentations](#presentations)
 - [Video](#video)
 - [Code](#code)
-- [Functions as a Service FaaS](#faas)
+- [Functions as a Service FaaS](#functions-as-a-service-faas)
 - [Community](#community)
   - [Comments](#comments)
   - [Forms](#forms)
