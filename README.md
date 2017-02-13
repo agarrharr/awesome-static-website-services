@@ -14,7 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Presentations](#presentations)
 - [Video](#video)
 - [Code](#code)
-- [Functions as a Service FaaS](#functions-as-a-service-faas)
+- [Functions as a Service FaaS](#functions-as-a-service)
 - [Community](#community)
   - [Comments](#comments)
   - [Forms](#forms)
@@ -77,7 +77,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JSFiddle](http://jsfiddle.net/) - Embeddable front-end code examples.
 - [highlight.js](https://highlightjs.org/) - Syntax highlighting for the web.
 
-## Functions as a Service (FaaS)
+## Functions as a Service
 - [AWS Lambda](https://aws.amazon.com/lambda/) - AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume
 - [Google Cloud Functions](https://cloud.google.com/functions/) - Create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment
 - [Webtask by Auth0](https://webtask.io/) - Call code on the server with simple HTTP, easier to set up by far than Lambda or Google's
