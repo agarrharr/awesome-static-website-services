@@ -26,6 +26,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Search](#search)
 - [Analytics](#analytics)
 - [Other](#other-embeddable-content)
+- [Related Lists](#related-lists)
 
 ---
 
@@ -175,6 +176,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Other
 
 - [Sketch Fab](https://sketchfab.com/) - Embeddable 3D content.
+
+## Related Lists
+
+- [Awesome Static Hosting](https://github.com/b-long/awesome-static-hosting)
 
 ----
 
