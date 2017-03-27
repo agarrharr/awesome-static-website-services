@@ -121,6 +121,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Wufoo](http://www.wufoo.com/) - Free or Paid - Forms that you can build with a form designer, with notifications, reports, and payments.
 - [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html) - Forms with file upload and captcha.
 - [Github Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama](https://github.com/sindresorhus/ama) for an example.
+- [FormBackend](https://www.formbackend.com) - Create form-backends and submit your HTML forms to our backend. View the entries online and connect to other services. Receive an email every time a new entry is submitted.
 
 ### Live Chat
 
