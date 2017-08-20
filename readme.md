@@ -149,6 +149,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Facebook](https://developers.facebook.com/docs/plugins) - Facebook embedded plugins.
 - [ShareThis](http://www.sharethis.com/) - Sharing buttons for multiple social networks.
 - [Storify](https://storify.com/) - Embed various social media in one place.
+- [Kontaktify](https://www.kontaktify.com/) - A perfect contact widget for your website.
 
 ### Surveys
 
