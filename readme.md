@@ -107,6 +107,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [MailThis](http://mailthis.to/) - Simple form submissions via email with optional attachments.
 - [Simple Form](https://getsimpleform.com/) - Simple forms with optional file attachments, email notifications, and online submission viewing.
 - [Brisk Forms](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source.
+- [99 Inbound](https://www.99inbound.com) - Form endpoint service with email/slack notifications and third party app integrations (eg mailchimp)
 
 #### Normal Forms
 
