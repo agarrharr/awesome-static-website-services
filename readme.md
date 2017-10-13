@@ -107,6 +107,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [MailThis](http://mailthis.to/) - Simple form submissions via email with optional attachments.
 - [Simple Form](https://getsimpleform.com/) - Simple forms with optional file attachments, email notifications, and online submission viewing.
 - [Brisk Forms](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source.
+- [99 Inbound](https://www.99inbound.com) - Form endpoint service with email/Slack notifications and third party app integrations (e.g. MailChimp)
 
 #### Normal Forms
 
@@ -123,6 +124,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Github Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama](https://github.com/sindresorhus/ama) for an example.
 - [FormBackend](https://www.formbackend.com) - Create form-backends and submit your HTML forms to our backend. View the entries online and connect to other services. Receive an email every time a new entry is submitted.
 - [Pageclip](https://pageclip.co) - A flexible server / backend for HTML forms. View your data in the realtime web interface, or use the API to get CSV and JSON output.
+- [Formester](https://www.formester.com)- Forms and email marketing (lead collection, email campaigns, and newsletters) with integrations.
 
 ### Live Chat
 
