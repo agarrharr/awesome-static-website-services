@@ -91,6 +91,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Comments
 
+- [Staticman](https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
 - [Disqus](https://disqus.com/) - Easily embeddable comments with nested replies, multiple login methods, and email notifications.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - Embeddable comments for your site by Facebook.
 - [IntenseDebate Comments](http://www.intensedebate.com/) - Embeddable comments with nested replies, multiple login methods, and email notifications.
