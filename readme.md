@@ -152,7 +152,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Twitter](https://dev.twitter.com/web/embedded-tweets) - Embedded tweets.
 - [Facebook](https://developers.facebook.com/docs/plugins) - Facebook embedded plugins.
 - [ShareThis](http://www.sharethis.com/) - Sharing buttons for multiple social networks.
-- [Storify](https://storify.com/) - Embed various social media in one place.
 - [Kontaktify](https://www.kontaktify.com/) - A contact widget that provides an easy way for visitors to get in touch.
 
 ### Surveys
@@ -164,7 +163,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## E-Commerce
 
-- [Ecwid](www.ecwid.com) - Embeddable shopping cart.
+- [Ecwid](https://www.ecwid.com/) - Embeddable shopping cart.
 - [FoxyCart](http://www.foxycart.com/) - Add a shopping cart with basic html code.
 - [SnipCart](https://snipcart.com/) - Include a few lines of code for a full online shop.
 - [Gumroad](https://gumroad.com/) - An all-in-one solution to sell your work.
