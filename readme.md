@@ -125,7 +125,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Github Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama](https://github.com/sindresorhus/ama) for an example.
 - [FormBackend](https://www.formbackend.com) - Create form-backends and submit your HTML forms to our backend. View the entries online and connect to other services. Receive an email every time a new entry is submitted.
 - [Pageclip](https://pageclip.co) - A flexible server / backend for HTML forms. View your data in the realtime web interface, or use the API to get CSV and JSON output.
-- [Formester](https://www.formester.com)- Forms and email marketing (lead collection, email campaigns, and newsletters) with integrations.
+- [Formester](https://www.formester.com) - Forms and email marketing (lead collection, email campaigns, and newsletters) with integrations.
+
+#### Provided by the Host
+
+- [Netlify](https://www.netlify.com/docs/form-handling/) - Netlify comes with built-in form handling.
 
 ### Live Chat
 
