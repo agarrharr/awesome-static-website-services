@@ -25,7 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [E-Commerce](#e-commerce)
 - [Search](#search)
 - [Analytics](#analytics)
-- [Other](#other-embeddable-content)
+- [Other](#other)
 - [Related Lists](#related-lists)
 
 ---
