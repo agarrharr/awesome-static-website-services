@@ -68,7 +68,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [YouTube](https://www.youtube.com/) - Embeddable videos with unlimited uploads.
 - [Vimeo](https://vimeo.co/) - Paid - Embeddable videos with no ads.
 - [Vevo](http://www.vevo.com/) - Embeddable music videos.
-- [Vine](https://vine.co/) - Embeddable vine videos.
 - [Wistia](http://wistia.com/) - Free plan has a limit of 25 videos.
 
 ### Code
