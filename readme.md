@@ -23,6 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [Social Media](#social-media)
   - [Surveys](#surveys)
 - [E-Commerce](#e-commerce)
+- [Payments](#payments)
 - [Search](#search)
 - [Analytics](#analytics)
 - [Other](#other)
@@ -173,6 +174,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [FoxyCart](http://www.foxycart.com/) - Add a shopping cart with basic html code.
 - [SnipCart](https://snipcart.com/) - Include a few lines of code for a full online shop.
 - [Gumroad](https://gumroad.com/) - An all-in-one solution to sell your work.
+
+## Payments
+ - [MoneyButton](https://www.moneybutton.com/) - Website payments and donations using Bitcoin Cash.
+ - [ShapeShift Shifty Button](https://info.shapeshift.io/tools/shifty-button) - Accept payments using various cryptocurrencies.
 
 ## Search
 
