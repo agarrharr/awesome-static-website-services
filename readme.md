@@ -177,8 +177,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Gumroad](https://gumroad.com/) - An all-in-one solution to sell your work.
 
 ## Payments
- - [MoneyButton](https://www.moneybutton.com/) - Website payments and donations using Bitcoin Cash
- - [ShapeShift Shifty Button](https://info.shapeshift.io/tools/shifty-button) - Accept payments using various cryptocurrencies
+ - [MoneyButton](https://www.moneybutton.com/) - Website payments and donations using Bitcoin Cash.
+ - [ShapeShift Shifty Button](https://info.shapeshift.io/tools/shifty-button) - Accept payments using various cryptocurrencies.
 
 ## Search
 
