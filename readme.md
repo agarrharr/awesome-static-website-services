@@ -167,6 +167,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SurveyMonkey](https://www.surveymonkey.com/) - Easy to use and free surveys.
 - [Typeform](http://www.typeform.com/) - Really beautiful forms.
 - [Qualaroo](https://qualaroo.com/) - Embed surveys anywhere on your website that comes up from the bottom right side of the screen.
+- [Insight Stash](https://insightstash.com/) - Fast, Simple survey forms.
 
 ## E-Commerce
 
