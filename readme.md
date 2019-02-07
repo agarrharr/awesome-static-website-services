@@ -187,6 +187,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [lunr.js](http://lunrjs.com/) - Simple full-text search in your browser.
 - [Google Custom Search Engine](https://cse.google.com/cse/) - Search your site with a custom Google Search.
 - [Algolia](https://www.algolia.com/) - Hosted Search API that delivers instant and relevant results from the first keystroke.
+- [CloudSh](https://cloudsh.com/) - Powerful search for your website with a few lines of JavaScript.
 
 ## Analytics
 
