@@ -4,6 +4,8 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+<h1 align="center"><a href="https://github.com/agarrharr/awesome-static-website-services/issues/65">Looking for new maintainers</a></h1>
+
 ## Table of Contents
 
 - [Audio](#audio)
@@ -51,6 +53,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Images
 
 - [Flickr](https://www.flickr.com/) - Online photo hosting by Yahoo.
+- [Cloudinary](https://cloudinary.com/) - Image hosting, manipulation and delivery.
 
 ## Maps
 
@@ -99,6 +102,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [LiveFyre](http://web.livefyre.com/apps/comments/) - Real-time comments, SEO-optimized, stocked with social features, and beautiful on both desktop and mobile.
 - [Redditjs Embed Widget](http://embed.redditjs.com/) - Embed Reddit comments on your site. If it hasn't been posted, it will show a link to encourage the user to submit.
 - [Muut.com](https://muut.com/) - Embeddable comments, forum and private messaging. A lot of functionality, but really low footprint left on your website.
+- [Gitment](https://github.com/imsun/gitment) - Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.
 
 ### Forms
 
@@ -117,7 +121,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Google Forms](https://www.google.com/forms/about/) - Saves results into Google Sheets and can email you when there is a submission.
 - [FormKeep](https://formkeep.com/) - Paid - View form submissions in a beautiful web interface. It has spam filtering and it integrates with webhooks such as Gmail, Trello, and Basecamp.
 - [123 Contact Form](http://www.123contactform.com/) - Connects to other online services such at MailChimp, Salesforce, and Google Drive. It also integreates with payment Processers and includes security and analytics.
-- [FormAssembly](http://www.formassembly.com/)
+- [FormAssembly](http://www.formassembly.com/) - Allows you to build any kind of form that can include complex branching logic and multiple pages.
 - [FormSite](https://www.formsite.com/) - Form buider, with payments, and form management.
 - [FormStack](https://www.formstack.com/) - Forms with A/B testing, partial submission, analytics, and integrations.
 - [Sheetsu](https://sheetsu.com/) - POST and GET your data to Google Spreadsheet.
@@ -175,6 +179,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SnipCart](https://snipcart.com/) - Include a few lines of code for a full online shop.
 - [Gumroad](https://gumroad.com/) - An all-in-one solution to sell your work.
 - [Payhip](https://payhip.com/) - An embeddable way to sell digital downloads & memberships
+- [Moltin](https://moltin.com/) - Add eCommerce functionality to anything.
 
 ## Payments
  - [MoneyButton](https://www.moneybutton.com/) - Website payments and donations using Bitcoin Cash.
@@ -185,10 +190,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [lunr.js](http://lunrjs.com/) - Simple full-text search in your browser.
 - [Google Custom Search Engine](https://cse.google.com/cse/) - Search your site with a custom Google Search.
 - [Algolia](https://www.algolia.com/) - Hosted Search API that delivers instant and relevant results from the first keystroke.
+- [CloudSh](https://cloudsh.com/) - Powerful search for your website with a few lines of JavaScript.
 
 ## Analytics
 
-- [Google Analytics](http://www.google.com/analytics/) - Free website analytics.
+- [Google Analytics](http://www.google.com/analytics/) - Freemium web analytics service offered by Google.
+- [Simple Analytics](https://simpleanalytics.io/) - 💲 - Simple, clean, and friendly analytics.
 
 ## Other
 
