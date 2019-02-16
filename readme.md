@@ -183,7 +183,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Moltin](https://moltin.com/) - Add eCommerce functionality to anything.
 
 ## Payments
- - [MoneyButton](https://www.moneybutton.com/) - Website payments and donations using Bitcoin Cash.
+ - [MoneyButton](https://www.moneybutton.com/) - Website payments and donations using Bitcoin (Satoshi's Vision).
  - [ShapeShift Shifty Button](https://info.shapeshift.io/tools/shifty-button) - Accept payments using various cryptocurrencies.
 
 ## Search
