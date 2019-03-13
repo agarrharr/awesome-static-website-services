@@ -181,6 +181,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Gumroad](https://gumroad.com/) - An all-in-one solution to sell your work.
 - [Payhip](https://payhip.com/) - An embeddable way to sell digital downloads & memberships
 - [Moltin](https://moltin.com/) - Add eCommerce functionality to anything.
+- [Trolley](https://trolley.link/) - Add a popup cart to any website - designed for static & JAMstack sites.
+
 
 ## Payments
  - [MoneyButton](https://www.moneybutton.com/) - Website payments and donations using Bitcoin (Satoshi's Vision).
