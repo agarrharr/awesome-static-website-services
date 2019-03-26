@@ -69,6 +69,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Video
 
+- [Mux](https://mux.com/) - Paid - An API to play videos directly to the client. Can also power live streams.
 - [YouTube](https://www.youtube.com/) - Embeddable videos with unlimited uploads.
 - [Vimeo](https://vimeo.co/) - Paid - Embeddable videos with no ads.
 - [Vevo](http://www.vevo.com/) - Embeddable music videos.
@@ -90,6 +91,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [IronWorkers](https://www.iron.io/platform/ironworker/) - by Iron.io - Run code in a multilanguage containerized environment with unlimited scale and simple pricing
 - [IronFunctions](http://open.iron.io/) - by Iron.io - IronFunctions is an open source serverless computing platform for any cloud - private, public, or hybrid.
 - [OpenWhisk by IBM](https://console.ng.bluemix.net/openwhisk/) - part of their BlueMix hosting platform, and open source, ties into their Watson AI ecosystem nicely
+- [Zeit Now](https://zeit.co/now#features) - Zeit Now lets people write functions as a service in their language of choice and deploy as part of a monorepo.
 
 ## Community
 
