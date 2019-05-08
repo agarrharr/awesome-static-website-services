@@ -83,6 +83,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [highlight.js](https://highlightjs.org/) - Syntax highlighting for the web.
 
 ## Functions as a Service
+
 - [1Backend](https://1backend.com) - Deploy your backend in seconds. Free tier included. Open source.
 - [AWS Lambda](https://aws.amazon.com/lambda/) - AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume
 - [Google Cloud Functions](https://cloud.google.com/functions/) - Create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment
@@ -184,9 +185,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Payhip](https://payhip.com/) - An embeddable way to sell digital downloads & memberships
 - [Moltin](https://moltin.com/) - Add eCommerce functionality to anything.
 - [Trolley](https://trolley.link/) - Add a popup cart to any website - designed for static & JAMstack sites.
-
+- [Commerce Layer](https://commercelayer.io/) - Add enterprise ecommerce to your JAMstack.
 
 ## Payments
+
  - [MoneyButton](https://www.moneybutton.com/) - Website payments and donations using Bitcoin (Satoshi's Vision).
  - [ShapeShift Shifty Button](https://info.shapeshift.io/tools/shifty-button) - Accept payments using various cryptocurrencies.
 
