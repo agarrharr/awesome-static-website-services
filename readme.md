@@ -120,6 +120,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Simple Form](https://getsimpleform.com/) - Simple forms with optional file attachments, email notifications, and online submission viewing.
 - [Brisk Forms](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source.
 - [99 Inbound](https://www.99inbound.com) - Form endpoint service with email/Slack notifications and third party app integrations (e.g. MailChimp)
+- [Getform](http://getform.io/) - Form backend platform for designers and developers, with email and integrations.
 
 #### Normal Forms
 
