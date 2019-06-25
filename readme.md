@@ -17,6 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Video](#video)
 - [Code](#code)
 - [Functions as a Service FaaS](#functions-as-a-service)
+- [GraphQL](#GraphQL)
 - [Community](#community)
   - [Comments](#comments)
   - [Forms](#forms)
@@ -95,6 +96,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [StackPath EdgeEngine](https://www.stackpath.com/products/edgeengine/) - Write functions as a service in the language of your choice and deploy them to a global network of data centers. All the networking, including intelligent routing and load balancing, is managed by StackPath over a private backbone.
 - [Zeit Now](https://zeit.co/now#features) - Zeit Now lets people write functions as a service in their language of choice and deploy as part of a monorepo.
 
+## GraphQL
+
+- [FaunaDB](https://fauna.com) - Serverless GraphQL database. Free tier with no time limit. Easily included in Netlify apps.
 
 ## Community
 
