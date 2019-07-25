@@ -29,6 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Payments](#payments)
 - [Search](#search)
 - [Analytics](#analytics)
+- [Generators](#generators)
 - [Other](#other)
 - [Related Lists](#related-lists)
 
@@ -211,6 +212,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Google Analytics](http://www.google.com/analytics/) - Freemium web analytics service offered by Google.
 - [Simple Analytics](https://simpleanalytics.io/) - 💲 - Simple, clean, and friendly analytics.
 
+## Generators
+
+- [Jekyll](https://github.com/jekyll/jekyll)
+- [Pelican](https://github.com/getpelican/pelican)
+
 ## Other
 
 - [Sketch Fab](https://sketchfab.com/) - Embeddable 3D content.
@@ -218,6 +224,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Related Lists
 
 - [Awesome Static Hosting](https://github.com/b-long/awesome-static-hosting)
+- [Awesome Static](https://github.com/staystatic/awesome-static)
 
 ----
 
