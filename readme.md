@@ -223,7 +223,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Related Lists
 
-- [Awesome Static Hosting](https://github.com/b-long/awesome-static-hosting)
+- [Awesome Static Hosting and CMS](https://github.com/b-long/awesome-static-hosting-and-cms)
 - [Awesome Static](https://github.com/staystatic/awesome-static)
 
 ----
