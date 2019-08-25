@@ -4,8 +4,6 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-<h1 align="center"><a href="https://github.com/agarrharr/awesome-static-website-services/issues/65">Looking for new maintainers</a></h1>
-
 ## Table of Contents
 
 - [Audio](#audio)
