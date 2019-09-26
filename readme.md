@@ -141,6 +141,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [FormBackend](https://www.formbackend.com) - Create form-backends and submit your HTML forms to our backend. View the entries online and connect to other services. Receive an email every time a new entry is submitted.
 - [Pageclip](https://pageclip.co) - A flexible server / backend for HTML forms. View your data in the realtime web interface, or use the API to get CSV and JSON output.
 - [Formester](https://www.formester.com) - Forms and email marketing (lead collection, email campaigns, and newsletters) with integrations.
+- [StaticKit](https://statickit.com) - Modern forms for static sites, with native support for React.
 
 #### Provided by the Host
 
