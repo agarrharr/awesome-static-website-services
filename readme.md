@@ -83,7 +83,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Functions as a Service
 
-- [1Backend](https://1backend.com) - Deploy your backend in seconds. Free tier included. Open source.
+- [1Backend](https://github.com/1backend/1backend) - Deploy your backend in seconds. Free tier included. Open source.
 - [AWS Lambda](https://aws.amazon.com/lambda/) - AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume
 - [Google Cloud Functions](https://cloud.google.com/functions/) - Create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment
 - [Webtask by Auth0](https://webtask.io/) - Call code on the server with simple HTTP, easier to set up by far than Lambda or Google's
