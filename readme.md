@@ -216,6 +216,7 @@ Self-hosted:
 - [fuzzysearch](https://github.com/bevacqua/fuzzysearch) - Tiny and blazing-fast fuzzy search in JavaScript
 - [fuzzy](https://github.com/mattyork/fuzzy) - Fuzzy search / filter for browser and node
 - [fullproof](https://reyesr.github.io/fullproof/) - Javascript library that provides high-quality full-text search in the browser
+- [Jets.js](https://jets.js.org/) - Native CSS search engine
 
 Third party integration:
 
