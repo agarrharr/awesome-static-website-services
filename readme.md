@@ -70,7 +70,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Mux](https://mux.com/) - Paid - An API to play videos directly to the client. Can also power live streams.
 - [YouTube](https://www.youtube.com/) - Embeddable videos with unlimited uploads.
-- [Vimeo](https://vimeo.co/) - Paid - Embeddable videos with no ads.
+- [Vimeo](https://vimeo.com/) - Paid - Embeddable videos with no ads.
 - [Vevo](http://www.vevo.com/) - Embeddable music videos.
 - [Wistia](http://wistia.com/) - Free plan has a limit of 25 videos.
 
@@ -168,7 +168,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Social Media
 
-- [Google+](https://developers.google.com/+/web/embedded-post/) - Google+ embedded post.
 - [Pinterest](https://developers.pinterest.com/) - Pin It Button.
 - [Twitter](https://dev.twitter.com/web/embedded-tweets) - Embedded tweets.
 - [Facebook](https://developers.facebook.com/docs/plugins) - Facebook embedded plugins.
