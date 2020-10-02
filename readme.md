@@ -4,7 +4,7 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-## Table of Contents
+## Table of Contents - An Amazing Project
 
 - [Audio](#audio)
 - [Books](#books)
