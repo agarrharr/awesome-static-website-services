@@ -131,7 +131,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [FormKeep](https://formkeep.com/) - Paid - View form submissions in a beautiful web interface. It has spam filtering and it integrates with webhooks such as Gmail, Trello, and Basecamp.
 - [123 Contact Form](http://www.123contactform.com/) - Connects to other online services such at MailChimp, Salesforce, and Google Drive. It also integrates with payment Processers and includes security and analytics.
 - [FormAssembly](http://www.formassembly.com/) - Allows you to build any kind of form that can include complex branching logic and multiple pages.
-- [FormSite](https://www.formsite.com/) - Form buider, with payments, and form management.
+- [FormSite](https://www.formsite.com/) - Form builder with payments and form management.
 - [FormStack](https://www.formstack.com/) - Forms with A/B testing, partial submission, analytics, and integrations.
 - [Sheetsu](https://sheetsu.com/) - POST and GET your data to Google Spreadsheet.
 - [Typeform](http://www.typeform.com/) - Awesome forms that can be embedded.
