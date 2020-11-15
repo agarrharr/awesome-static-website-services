@@ -126,6 +126,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 #### Normal Forms
 
+- [Formcarry](https://formcarry.com) - Hassle-free HTML form endpoints for your form, powerful dashboard, reliable spam blocking, attachment uploads and Zapier integrations.
 - [Formcake](https://formcake.com) - The form backend built for developers: Zapier integrations, simple endpoint API, unlimited forms.
 - [Google Forms](https://www.google.com/forms/about/) - Saves results into Google Sheets and can email you when there is a submission.
 - [FormKeep](https://formkeep.com/) - Paid - View form submissions in a beautiful web interface. It has spam filtering and it integrates with webhooks such as Gmail, Trello, and Basecamp.
