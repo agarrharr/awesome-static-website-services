@@ -27,6 +27,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Payments](#payments)
 - [Search](#search)
 - [Analytics](#analytics)
+- [Authentication](#authentication)
 - [Other](#other)
 - [Related Lists](#related-lists)
 
@@ -229,6 +230,10 @@ Third party integration:
 
 - [Google Analytics](http://www.google.com/analytics/) - Freemium web analytics service offered by Google.
 - [Simple Analytics](https://simpleanalytics.io/) - 💲 - Simple, clean, and friendly analytics.
+
+## Authentication
+
+- [Uthentic](https://uthentic.net) - Serverless, passwordless login for static sites in 2 lines of code.
 
 ## Other
 
