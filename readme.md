@@ -146,6 +146,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Pageclip](https://pageclip.co) - A flexible server / backend for HTML forms. View your data in the realtime web interface, or use the API to get CSV and JSON output.
 - [Formester](https://www.formester.com) - Forms and email marketing (lead collection, email campaigns, and newsletters) with integrations.
 - [StaticKit](https://statickit.com) - Modern forms for static sites, with native support for React.
+- [SheetDB](https://sheetdb.io/) - Google Spreadsheet RESTful API with integrations.
 
 #### Provided by the Host
 
