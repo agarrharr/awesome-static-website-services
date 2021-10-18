@@ -95,6 +95,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [StackPath EdgeEngine](https://www.stackpath.com/products/edgeengine/) - Write functions as a service in the language of your choice and deploy them to a global network of data centers. All the networking, including intelligent routing and load balancing, is managed by StackPath over a private backbone.
 - [Vercel](https://vercel.com/home#features) - Vercel lets people write functions as a service in their language of choice and deploy as part of a monorepo.
 - [Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/#features) - Full-stack static app hosting including serverless Functions, authentication, CDN and more
+- [Flashdrive.io](https://flashdrive.io) - Full stack app hosting with data storage included, similar to Heroku with a developer centric approach. Free to use up to 3 apps.
 
 ## GraphQL
 
