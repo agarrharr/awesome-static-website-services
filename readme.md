@@ -96,6 +96,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Vercel](https://vercel.com/home#features) - Vercel lets people write functions as a service in their language of choice and deploy as part of a monorepo.
 - [Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/#features) - Full-stack static app hosting including serverless Functions, authentication, CDN and more
 - [Qoddi](https://qoddi.com) - Full stack app hosting with data storage included, similar to Heroku with a developer centric approach. Free to use up to 3 apps.
+- [Autocode](https://autocode.com) - Autocode turns functions into scalable web services in an instant, no configuration required; serverless hosting available with an in-browser IDE, an API library that’s easy to use, and seamlessly managed authentication.
 
 ## GraphQL
 
