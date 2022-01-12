@@ -95,6 +95,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [StackPath EdgeEngine](https://www.stackpath.com/products/edgeengine/) - Write functions as a service in the language of your choice and deploy them to a global network of data centers. All the networking, including intelligent routing and load balancing, is managed by StackPath over a private backbone.
 - [Vercel](https://vercel.com/home#features) - Vercel lets people write functions as a service in their language of choice and deploy as part of a monorepo.
 - [Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/#features) - Full-stack static app hosting including serverless Functions, authentication, CDN and more
+- [Qoddi](https://qoddi.com) - Full stack app hosting with data storage included, similar to Heroku with a developer centric approach. Free to use up to 3 apps.
+- [Autocode](https://autocode.com) - Autocode turns functions into scalable web services in an instant, no configuration required; serverless hosting available with an in-browser IDE, an API library that’s easy to use, and seamlessly managed authentication.
 
 ## GraphQL
 
@@ -126,6 +128,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Brisk Forms](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source.
 - [99 Inbound](https://www.99inbound.com) - Form endpoint service with email/Slack notifications and third party app integrations (e.g. MailChimp)
 - [Getform](http://getform.io/) - Form backend platform for designers and developers, with email and integrations.
+- [HeyForm](https://heyform.net/) - Free, easy-to-use drag & drop form maker capable of crafting powerful online forms. Includes 40+ field types, integrations, analytics, and more.
 - [Form.taxi](https://form.taxi/) - Backend to handle form submissions easily and reliably, with email notifications, file uploads and GDPR-compliant data processing.
 
 #### Normal Forms
@@ -150,6 +153,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [StaticKit](https://statickit.com) - Modern forms for static sites, with native support for React.
 - [SheetDB](https://sheetdb.io/) - Turn a Google Spreadsheet into a JSON API.
 - [Form2Channel](https://form2channel.com/) - Post your HTML form to Form2Channel to store submissions in Google Sheets and receive them via email, Slack or Telegram. No signups, no costs, no limits.
+- [reCAPTCHAme](https://recaptchame.com/) - reCAPTCHA and hCAPTCHA token verification service. Post your form to reCAPTCHAme to avoid getting spammed. Made for static websites, no server-side coding required.
 
 #### Provided by the Host
 
