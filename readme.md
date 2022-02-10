@@ -178,6 +178,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [AWeber](http://www.aweber.com/) - Email marketing with campaigns, autoresponders, and analytics.
 - [Campaign Monitor](https://www.campaignmonitor.com/) - Email marketing with campaigns, autoresponders, and analytics.
 - [MailerLite](https://www.mailerlite.com/) - Free email marketing. You can pay for more subscribers.
+- [Buttondown](https://buttondown.email) - A small, privacy-aware, elegant tool for producing newsletters.
 
 ### Social Media
 
