@@ -85,7 +85,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [highlight.js](https://highlightjs.org/) - Syntax highlighting for the web.
 
 ## Functions as a Service
-
+- [FabForm](https://fabform.io) - Save HTML form data to our smart forms backend. No code required. Free plan availalble.
 - [1Backend](https://github.com/1backend/1backend) - Deploy your backend in seconds. Free tier included. Open source.
 - [AWS Lambda](https://aws.amazon.com/lambda/) - AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume
 - [Google Cloud Functions](https://cloud.google.com/functions/) - Create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment
