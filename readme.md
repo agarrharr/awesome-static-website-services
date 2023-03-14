@@ -83,6 +83,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JS Bin](http://jsbin.com/) - Embeddable front-end code examples.
 - [JSFiddle](http://jsfiddle.net/) - Embeddable front-end code examples.
 - [highlight.js](https://highlightjs.org/) - Syntax highlighting for the web.
+- [Indiepen](https://indiepen.tech/) - A privacy-friendly solution to embed front-end code examples.
 
 ## Functions as a Service
 
