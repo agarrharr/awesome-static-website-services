@@ -146,7 +146,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [FormAssembly](http://www.formassembly.com/) - Allows you to build any kind of form that can include complex branching logic and multiple pages.
 - [FormSite](https://www.formsite.com/) - Form builder with payments and form management.
 - [FormStack](https://www.formstack.com/) - Forms with A/B testing, partial submission, analytics, and integrations.
-- [Sheetsu](https://sheetsu.com/) - POST and GET your data to Google Spreadsheet.
+- [Sheet2API](https://sheet2api.com/) - POST and GET your data to Google Spreadsheet.
 - [Typeform](http://www.typeform.com/) - Awesome forms that can be embedded.
 - [Wufoo](http://www.wufoo.com/) - Free or Paid - Forms that you can build with a form designer, with notifications, reports, and payments.
 - [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html) - Forms with file upload and captcha.
