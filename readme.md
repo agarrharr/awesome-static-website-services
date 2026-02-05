@@ -140,7 +140,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Formcarry](https://formcarry.com) - Hassle-free HTML form endpoints for your form, powerful dashboard, reliable spam blocking, attachment uploads and Zapier integrations.
 - [Formcake](https://formcake.com) - The form backend built for developers: Zapier integrations, simple endpoint API, unlimited forms.
-- [Formware](https://formware.io/) - Conversational forms with unlimited responses that can be embedded on any website.
 - [Google Forms](https://www.google.com/forms/about/) - Saves results into Google Sheets and can email you when there is a submission.
 - [FormKeep](https://formkeep.com/) - Paid - View form submissions in a beautiful web interface. It has spam filtering and it integrates with webhooks such as Gmail, Trello, and Basecamp.
 - [123 Contact Form](http://www.123contactform.com/) - Connects to other online services such at MailChimp, Salesforce, and Google Drive. It also integrates with payment Processers and includes security and analytics.
@@ -160,6 +159,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SheetDB](https://sheetdb.io/) - Turn a Google Spreadsheet into a JSON API.
 - [Form2Channel](https://form2channel.com/) - Post your HTML form to Form2Channel to store submissions in Google Sheets and receive them via email, Slack or Telegram. No signups, no costs, no limits.
 - [reCAPTCHAme](https://recaptchame.com/) - reCAPTCHA and hCAPTCHA token verification service. Post your form to reCAPTCHAme to avoid getting spammed. Made for static websites, no server-side coding required.
+- [Formware](https://formware.io/) - Conversational forms with unlimited responses that can be embedded on any website.
 
 #### Provided by the Host
 
@@ -194,12 +194,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Surveys
 
-- [Formware](https://formware.io/) - Create stunning surveys with unlimited responses for free.
 - [Google Forms](https://www.google.co.nz/forms/about/) - You can use Google forms for surveys or for forms on your site.
 - [SurveyMonkey](https://www.surveymonkey.com/) - Easy to use and free surveys.
 - [Typeform](http://www.typeform.com/) - Really beautiful forms.
 - [Qualaroo](https://qualaroo.com/) - Embed surveys anywhere on your website that comes up from the bottom right side of the screen.
 - [Insight Stash](https://insightstash.com/) - Fast, Simple survey forms.
+- [Formware](https://formware.io/) - Create stunning surveys with unlimited responses for free.
 
 ## E-Commerce
 
