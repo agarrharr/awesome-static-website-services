@@ -28,6 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Search](#search)
 - [Analytics](#analytics)
 - [Authentication](#authentication)
+- [Utilities](#utilities)
 - [Other](#other)
 - [Related Lists](#related-lists)
 
