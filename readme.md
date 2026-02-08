@@ -55,8 +55,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Flickr](https://www.flickr.com/) - Online photo hosting by Yahoo.
 - [Cloudinary](https://cloudinary.com/) - Image hosting, manipulation and delivery.
-- [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
-
 
 ## Maps
 
@@ -251,6 +249,9 @@ Third party integration:
 ## Authentication
 
 - [Uthentic](https://uthentic.net) - Serverless, passwordless login for static sites in 2 lines of code.
+
+## Utilities
+- [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
 
 ## Other
 
