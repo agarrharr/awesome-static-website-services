@@ -255,6 +255,7 @@ Third party integration:
 
 ## Utilities
 - [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
+- [Hostgrid](https://hostgrid.dev) - Paid - Connect your own domain to your static site without expensive platform plans.
 
 ## Other
 
