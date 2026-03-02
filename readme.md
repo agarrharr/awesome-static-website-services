@@ -255,6 +255,7 @@ Third party integration:
 
 ## Utilities
 - [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
+- [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - Generates a fully static single-page HTML file for personal genome analysis visualization — no external services, all data inline with CSS/JS.
 
 ## Other
 
