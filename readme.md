@@ -136,6 +136,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Getform](http://getform.io/) - Form backend platform for designers and developers, with email and integrations.
 - [HeyForm](https://heyform.net/) - Free, easy-to-use drag & drop form maker capable of crafting powerful online forms. Includes 40+ field types, integrations, analytics, and more.
 - [Form.taxi](https://form.taxi/) - Backend to handle form submissions easily and reliably, with email notifications, file uploads and GDPR-compliant data processing.
+- * [Ansel Forms](https://anselforms.com) - A secure, privacy first headless form backend and visual builder with zero bloat.
 
 #### Normal Forms
 
@@ -161,6 +162,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Form2Channel](https://form2channel.com/) - Post your HTML form to Form2Channel to store submissions in Google Sheets and receive them via email, Slack or Telegram. No signups, no costs, no limits.
 - [reCAPTCHAme](https://recaptchame.com/) - reCAPTCHA and hCAPTCHA token verification service. Post your form to reCAPTCHAme to avoid getting spammed. Made for static websites, no server-side coding required.
 - [Formware](https://formware.io/) - Conversational forms with unlimited responses that can be embedded on any website.
+- [Ansel Forms](https://anselforms.com) - A simple, free headless form backend and visual builder. Fast, privacy focused, and features custom branding with zero third party.
 
 #### Provided by the Host
 
