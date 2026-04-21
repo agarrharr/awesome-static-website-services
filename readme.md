@@ -254,6 +254,7 @@ Third party integration:
 
 ## Utilities
 - [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
+- [PageGuard](https://pageguard.org) - Free website health scanner covering SEO, performance, accessibility, and best practices. Generates AI-powered reports and provides a REST API. No login required.
 
 ## Other
 
