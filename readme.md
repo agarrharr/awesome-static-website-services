@@ -160,6 +160,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Form2Channel](https://form2channel.com/) - Post your HTML form to Form2Channel to store submissions in Google Sheets and receive them via email, Slack or Telegram. No signups, no costs, no limits.
 - [reCAPTCHAme](https://recaptchame.com/) - reCAPTCHA and hCAPTCHA token verification service. Post your form to reCAPTCHAme to avoid getting spammed. Made for static websites, no server-side coding required.
 - [Formware](https://formware.io/) - Conversational forms with unlimited responses that can be embedded on any website.
+- [Ansel Forms](https://anselforms.com) - A simple, free headless form backend and visual builder. Fast, privacy focused, and features custom branding with zero third party.
 
 #### Provided by the Host
 
