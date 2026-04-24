@@ -254,6 +254,7 @@ Third party integration:
 
 ## Utilities
 - [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
+- [FastTool](https://fasttool.app) - 800+ browser-based utilities (JSON, regex, color, image, PDF, QR, password, hash) delivered as a static site from Cloudflare Pages. Privacy-first and client-side — useful as a reference for large static tool sites.
 
 ## Other
 
