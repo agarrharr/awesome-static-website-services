@@ -84,6 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JSFiddle](http://jsfiddle.net/) - Embeddable front-end code examples.
 - [highlight.js](https://highlightjs.org/) - Syntax highlighting for the web.
 - [Indiepen](https://indiepen.tech/) - A privacy-friendly solution to embed front-end code examples.
+- [OneClickLive](https://oneclicklive.app) — Paste HTML/JSX and get a live HTTPS URL in 3 seconds. No account required for first deploy. Auto-wraps React without a build step.
 
 ## Functions as a Service
 
