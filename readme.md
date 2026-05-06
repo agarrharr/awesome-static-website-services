@@ -254,6 +254,7 @@ Third party integration:
 
 ## Utilities
 - [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
+- [PDF Mavericks](https://pdfmavericks.com) - Browser-local PDF toolkit (compress, merge, split, sign, watermark, redact, convert). Files never leave the device; processing runs in JavaScript via PDF.js. No upload, no account.
 
 ## Other
 
