@@ -55,6 +55,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Flickr](https://www.flickr.com/) - Online photo hosting by Yahoo.
 - [Cloudinary](https://cloudinary.com/) - Image hosting, manipulation and delivery.
+- [twineconvert](https://twineconvert.com/) - Browser-based file converter (192 tools) using WebAssembly: HEIC/JPG/PNG/AVIF/WebP/SVG/TIFF/ICO image conversion plus PDF, audio, video, and niche format families. Files stay on the user's device. Works on any static site since it runs entirely client-side.
 
 ## Maps
 
