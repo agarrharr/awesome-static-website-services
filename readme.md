@@ -254,6 +254,7 @@ Third party integration:
 
 ## Utilities
 - [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose web utilities, all browser-based, no signup. Includes a favicon generator, OG image generator, color palette generator, SEO meta tag generator, AI background remover (runs locally), domain name generator, and more. Open source.
 
 ## Other
 
