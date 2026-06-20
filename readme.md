@@ -247,6 +247,7 @@ Third party integration:
 
 - [Google Analytics](http://www.google.com/analytics/) - Freemium web analytics service offered by Google.
 - [Simple Analytics](https://simpleanalytics.io/) - 💲 - Simple, clean, and friendly analytics.
+- [FeedPulse](https://feed-pulse.com) — Free SEO checker + embeddable widget suite for indie sites. 13 SEO tools (DA, DR, SERP, schema, AI audit) + 18 widgets (live traffic, flag counter, weather, GitHub stars). No signup, no paid tier.
 
 ## Authentication
 
