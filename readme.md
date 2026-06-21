@@ -216,6 +216,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
  - [MoneyButton](https://www.moneybutton.com/) - Website payments and donations using Bitcoin (Satoshi's Vision).
  - [ShapeShift Shifty Button](https://info.shapeshift.io/tools/shifty-button) - Accept payments using various cryptocurrencies.
+ - [Coin Moebius](https://www.coinmoebius.com/) - Take payments on any web page with cards, crypto, or pay-by-mail through your own accounts. Open Source SDK.
 
 ## Search
 
