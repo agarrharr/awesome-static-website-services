@@ -254,6 +254,7 @@ Third party integration:
 
 ## Utilities
 - [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
+- [Quota Dashboard](https://github.com/ryan-knowone/quota-dashboard) - Local-only, privacy-first dashboard for AI subscription quota (Claude Code Max, Kimi, Z.ai). Runs entirely in the browser as a static site; tokens never leave the user's machine.
 
 ## Other
 
