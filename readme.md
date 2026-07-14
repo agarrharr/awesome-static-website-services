@@ -203,6 +203,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## E-Commerce
 
+- [Coin Moebius](https://www.coinmoebius.com/) - A buy button for subscriptions/payments/tips. Works anywhere. No code.
 - [Ecwid](https://www.ecwid.com/) - Embeddable shopping cart.
 - [FoxyCart](http://www.foxycart.com/) - Add a shopping cart with basic html code.
 - [Snipcart](https://snipcart.com/) - Include a few lines of code for a full online shop.
