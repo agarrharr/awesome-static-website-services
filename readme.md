@@ -183,6 +183,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [AWeber](http://www.aweber.com/) - Email marketing with campaigns, autoresponders, and analytics.
 - [Campaign Monitor](https://www.campaignmonitor.com/) - Email marketing with campaigns, autoresponders, and analytics.
 - [MailerLite](https://www.mailerlite.com/) - Free email marketing. You can pay for more subscribers.
+- [Hakanai Broadcast](https://broadcast.hakanai.io/) - Turns your site's RSS feed into an email newsletter and auto-posts new content to social networks.
 
 ### Social Media
 
