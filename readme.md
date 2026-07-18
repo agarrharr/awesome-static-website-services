@@ -211,6 +211,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Moltin](https://moltin.com/) - Add eCommerce functionality to anything.
 - [Trolley](https://trolley.link/) - Add a popup cart to any website - designed for static & JAMstack sites.
 - [Commerce Layer](https://commercelayer.io/) - Add enterprise ecommerce to your JAMstack.
+- [HonorBox](https://honorboxx.github.io/honorbox/) - Sell digital products with only Stripe and GitHub, no server or platform fee.
 
 ## Payments
 
