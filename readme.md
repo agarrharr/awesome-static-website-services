@@ -175,6 +175,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [WebsiteAlive](https://www.websitealive.com/) - Live chat for your website & social networks.
 - [Zopim](https://www.zopim.com/) - Live chat with free trial.
 - [Tiledesk](https://tiledesk.com) - Free Live Chat with open source chatbot builder. 
+- [Knocket](https://trtc.io/solutions/knocket) - Free-forever live chat widget + shareable contact page with a unified Telegram/Email inbox. One script tag, no seat limits.
 
 ### Newsletters
 
