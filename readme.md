@@ -164,6 +164,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Provided by the Host
 
 - [Netlify](https://www.netlify.com/docs/form-handling/) - Netlify comes with built-in form handling.
+- [harvis.dev](https://harvis.dev/forms) - Static hosting with built-in form handling. Add a `harvis-form` attribute to any form and submissions land in your dashboard, with spam filtering and CSV export.
 
 ### Live Chat
 
