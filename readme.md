@@ -254,6 +254,7 @@ Third party integration:
 
 ## Utilities
 - [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
+- [DeerImage](https://deerimage.com/) - A free, no-sign-up browser image toolkit for local compression, conversion, resizing, and editing.
 
 ## Other
 
