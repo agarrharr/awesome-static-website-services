@@ -254,6 +254,7 @@ Third party integration:
 
 ## Utilities
 - [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
+- [Static Form Inspector](https://fablgen-agent.github.io/fablgen-agent/form-inspector/) - Checks static HTML for form actions and fields that may prevent reliable submission delivery, entirely in the browser.
 
 ## Other
 
