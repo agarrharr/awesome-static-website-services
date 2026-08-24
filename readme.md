@@ -254,6 +254,7 @@ Third party integration:
 
 ## Utilities
 - [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
+- [Open Graph Preview](https://alltoolsverse.com/tools/open-graph-preview/) - Preview pasted Open Graph and Twitter meta tags across Facebook, LinkedIn, X, Slack, and Discord.
 
 ## Other
 
