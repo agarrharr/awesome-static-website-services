@@ -266,6 +266,8 @@ Third party integration:
 
 ----
 
+
+- [Plinth Forms](https://plinthrun.com/forms) - Open-core form backend for static sites (honeypot spam screen, storage, optional webhooks).
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
