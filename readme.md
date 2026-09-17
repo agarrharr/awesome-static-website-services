@@ -90,12 +90,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [1Backend](https://github.com/1backend/1backend) - Deploy your backend in seconds. Free tier included. Open source.
 - [AWS Lambda](https://aws.amazon.com/lambda/) - AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume
 - [Google Cloud Functions](https://cloud.google.com/functions/) - Create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment
-- [Webtask by Auth0](https://webtask.io/) - Call code on the server with simple HTTP, easier to set up by far than Lambda or Google's
 - [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) - by Microsoft - same premise as Lambda on the Azure cloud
 - [IronWorkers](https://www.iron.io/platform/ironworker/) - by Iron.io - Run code in a multilanguage containerized environment with unlimited scale and simple pricing
 - [IronFunctions](http://open.iron.io/) - by Iron.io - IronFunctions is an open source serverless computing platform for any cloud - private, public, or hybrid.
 - [OpenWhisk by IBM](https://console.ng.bluemix.net/openwhisk/) - part of their BlueMix hosting platform, and open source, ties into their Watson AI ecosystem nicely
-- [StackPath EdgeEngine](https://www.stackpath.com/products/edgeengine/) - Write functions as a service in the language of your choice and deploy them to a global network of data centers. All the networking, including intelligent routing and load balancing, is managed by StackPath over a private backbone.
 - [Cloud 66](https://www.cloud66.com/) - Build and deploy static websites to your own cloud account. 
 - [Vercel](https://vercel.com/home#features) - Vercel lets people write functions as a service in their language of choice and deploy as part of a monorepo.
 - [Azure Static Web Apps](https://azure.microsoft.com/en-us/services/app-service/static/#features) - Full-stack static app hosting including serverless Functions, authentication, CDN and more
@@ -114,9 +112,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Disqus](https://disqus.com/) - Easily embeddable comments with nested replies, multiple login methods, and email notifications.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - Embeddable comments for your site by Facebook.
 - [IntenseDebate Comments](http://www.intensedebate.com/) - Embeddable comments with nested replies, multiple login methods, and email notifications.
-- [LiveFyre](http://web.livefyre.com/apps/comments/) - Real-time comments, SEO-optimized, stocked with social features, and beautiful on both desktop and mobile.
-- [Redditjs Embed Widget](http://embed.redditjs.com/) - Embed Reddit comments on your site. If it hasn't been posted, it will show a link to encourage the user to submit.
-- [Muut.com](https://muut.com/) - Embeddable comments, forum and private messaging. A lot of functionality, but really low footprint left on your website.
 - [Gitment](https://github.com/imsun/gitment) - Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.
 - [giscus](https://github.com/laymonage/giscus) - A comments widget built on GitHub Discussions.
 - [utterances](https://github.com/utterance) - A lightweight comments widget built on GitHub issues. 
@@ -127,7 +122,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Formspree](http://formspree.io/) - Receive emails from a form on your static website.
 - [elFormo](https://www.elformo.com/) - Simple form processing and response retrieval via email.
-- [Flipmail](http://flipmail.co/) - Simple form processing and response retrieval via email.
 - [MailThis](http://mailthis.to/) - Simple form submissions via email with optional attachments.
 - [Simple Form](https://getsimpleform.com/) - Simple forms with optional file attachments, email notifications, and online submission viewing.
 - [Brisk Forms](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source.
@@ -158,7 +152,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [StaticKit](https://statickit.com) - Modern forms for static sites, with native support for React.
 - [SheetDB](https://sheetdb.io/) - Turn a Google Spreadsheet into a JSON API.
 - [Form2Channel](https://form2channel.com/) - Post your HTML form to Form2Channel to store submissions in Google Sheets and receive them via email, Slack or Telegram. No signups, no costs, no limits.
-- [reCAPTCHAme](https://recaptchame.com/) - reCAPTCHA and hCAPTCHA token verification service. Post your form to reCAPTCHAme to avoid getting spammed. Made for static websites, no server-side coding required.
 - [Formware](https://formware.io/) - Conversational forms with unlimited responses that can be embedded on any website.
 
 #### Provided by the Host
@@ -215,7 +208,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Payments
 
  - [MoneyButton](https://www.moneybutton.com/) - Website payments and donations using Bitcoin (Satoshi's Vision).
- - [ShapeShift Shifty Button](https://info.shapeshift.io/tools/shifty-button) - Accept payments using various cryptocurrencies.
 
 ## Search
 
