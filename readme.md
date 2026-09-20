@@ -253,6 +253,8 @@ Third party integration:
 - [Uthentic](https://uthentic.net) - Serverless, passwordless login for static sites in 2 lines of code.
 
 ## Utilities
+
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) — Free browser-only freelance billing and client-document tools: invoice, credit note, quote, rate calculator, and more; no signup.
 - [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
 
 ## Other
