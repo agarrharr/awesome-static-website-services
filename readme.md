@@ -135,6 +135,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Getform](http://getform.io/) - Form backend platform for designers and developers, with email and integrations.
 - [HeyForm](https://heyform.net/) - Free, easy-to-use drag & drop form maker capable of crafting powerful online forms. Includes 40+ field types, integrations, analytics, and more.
 - [Form.taxi](https://form.taxi/) - Backend to handle form submissions easily and reliably, with email notifications, file uploads and GDPR-compliant data processing.
+- [Formgong](https://formgong.com/) - Form endpoint for static and AI-built sites that sends each submission by email and to Telegram, with a spam-filtered inbox and data stored in the EU.
 
 #### Normal Forms
 
