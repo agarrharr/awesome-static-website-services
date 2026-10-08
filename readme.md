@@ -254,6 +254,7 @@ Third party integration:
 
 ## Utilities
 - [BulkPicTools](https://bulkpictools.com) - A privacy-first, browser-based batch image processor for static site creators, leveraging WebAssembly for local compression and conversion.
+- [Nutilz](https://nutilz.com) - Free browser-based developer utilities including regex tester, JSON formatter, image converters, and calculators.
 
 ## Other
 
